@@ -1,0 +1,47 @@
+image: ruby:2.4.9
+
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: C.UTF-8
+
+cache:
+  paths:
+    - vendor/ruby/
+    - node_modules/
+
+before_script:
+  - ruby -v
+  - apt-get update
+  - apt-get -qq -y install wget #install wget
+  - wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash #install nvm
+  - export NVM_DIR="$HOME/.nvm" && . "$NVM_DIR/nvm.sh" --no-use #load nvm
+  - eval "[ -f .nvmrc ] && nvm install || nvm install stable" #install node
+  - command -v nvm
+  - nvm install 12.18.3
+  - node -v
+  - npm ci --cache .npm --prefer-offline
+  - gem install bundler -v 2.1.4
+  - bundle install -j $(nproc) --path vendor
+  - npm run build
+  - apt-get install -y zip
+  - zip -FS9ryo zzixyfm/suighrs/tyus/kiujsd/figs-jekyll-theme.zip .  -x zzixyfm/\* -x _site/\* -x Gemfile.lock -x robots.txt -x node_modules/\* -x .nvmrc -x .jekyll-cache/\* -x .jekyll-metadata -x /public/\* -x  public/\* -x .git/\* -x .gilab-ci.yml -x .nvmrc -x ruby-version -x vendor/\* -x .npm/\*
+
+test:
+  stage: test
+  script:
+    - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+      - test
+  except:
+    - master
+
+pages:
+  stage: deploy
+  script:
+    - npm run build
+  artifacts:
+    paths:
+      - public
+  only:
+    - master

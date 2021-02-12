@@ -1,0 +1,10 @@
+- name: Savion Lowery
+  social: '@savion.lowery'
+  image: https://randomuser.me/api/portraits/men/44.jpg
+  review: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam obcaecati laudantium recusandae, debitis eum voluptatem ad, illo voluptatibus temporibus odio provident.
+
+- name: Amina Porter
+  social: '@aminaporter'
+  image: https://randomuser.me/api/portraits/women/72.jpg
+  review: Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+

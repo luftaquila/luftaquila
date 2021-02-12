@@ -1,0 +1,4 @@
+about-text: "학생 개발자 오병준입니다."
+details:
+  age: <script>document.write(Math.round((new Date() - new Date(1999, 4, 12)) / (1000 * 3600 * 24 * 365)))</script>
+  residence: Suwon, Korea

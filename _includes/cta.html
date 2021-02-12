@@ -1,0 +1,49 @@
+{% if site.data.settings.show-buy-button %}
+<div class="cta">
+  <h2
+    class="font-bold text-xl pb-3 mb-3 border-b"
+    data-sal="slide-up"
+    data-sal-duration="800"
+  >
+    Buy
+    <span class="text-{{site.data.settings.color-scheme}}"
+      >Figs Jekyll Theme</span
+    >
+    <span
+      ><img
+        src="/assets/images/onepx.png"
+        class="lazy inline-block ml-2 w-6"
+        data-src="{{site.data.settings.touch-icon}}"
+        alt="Figs Jekyll Theme"
+    /></span>
+  </h2>
+  <div
+    class="grid grid-cols-1 gap-4 py-3 items-center"
+    data-sal="fade"
+    data-sal-duration="800"
+  >
+    <ul>
+      <li class="italic text-gray-600">
+        <i class="fas fa-check-circle text-green-500 mr-2"></i>3 months support.
+      </li>
+      <li class="italic text-gray-600">
+        <i class="fas fa-check-circle text-green-500 mr-2"></i>Get assistance
+        with reported bugs and issues.
+      </li>
+      <li class="italic text-gray-600">
+        <i class="fas fa-check-circle text-green-500 mr-2"></i>Help with
+        included 3rd party assets.
+      </li>
+      <li class="italic text-gray-600">
+        You can always leave us an email at <code>hello@webjeda.com</code>.
+      </li>
+    </ul>
+    <form>
+      <script
+        src="https://checkout.razorpay.com/v1/payment-button.js"
+        data-payment_button_id="pl_GOIpM5VVspDaKh"
+      ></script>
+    </form>
+  </div>
+</div>
+{% endif %}

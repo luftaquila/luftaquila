@@ -1,0 +1,27 @@
+<div class="works mb-8 md:mb-12">
+  <h2
+    class="font-bold text-xl pb-3 mb-3 border-b"
+    data-sal="slide-up"
+    data-sal-duration="800"
+  >
+    <span class="text-{{site.data.settings.color-scheme}}">Blog</span>
+  </h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 py-3">
+    {% for post in site.posts limit: 4 %}
+    <a href="{{post.url}}">
+      <div data-sal="slide-up" data-sal-duration="800">
+        {% if post.image %}
+        <img
+          src="/assets/images/onepx.png"
+          class="lazy h-44 w-full object-cover object-center rounded"
+          data-src="{{post.image}}"
+          alt="{{post.title}}"
+        />
+        {% endif %}
+        <h3 class="font-semibold text-center">{{post.title}}</h3>
+        <p class="text-sm text-center">{{post.description}}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>

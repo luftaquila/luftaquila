@@ -1,0 +1,21 @@
+# choose a color scheme for the website
+color-scheme: blue-500
+# you have these options: https://tailwindcss.com/docs/customizing-colors
+# Do not use white or lighter shades of gray since the text may not be visible
+
+touch-icon: /assets/images/figs-180.png
+favicon: /assets/images/figs-32.png
+
+footer:
+  show-footer: false
+  footer-text: "Copyrights by &copy; Figs"
+
+analytics: "UA-102734518-4"
+disqus-shortname: "demo"
+
+# this is for contact form in contact page /_pages/contact.
+formspree-action: https://formspree.io/f/mdowwywy
+#Create an account here https://formspree.io
+
+# set this to false
+show-buy-button: false

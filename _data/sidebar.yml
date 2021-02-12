@@ -1,0 +1,31 @@
+name: LUFT-AQUILA
+image: /assets/images/profile/profile.jpg
+designations:
+  - Programmer.
+  - Engineer.
+  - Student.
+  - Maker.
+
+social:
+  - title: LinkedIn
+    link: 'https://linkedin.com/in/luftaquila'
+    icon: fa-linkedin
+
+  - title: Instagram
+    link: 'https://instagram.com/luftaquila'
+    icon: fa-instagram
+
+  - title: Github
+    link: 'https://github.com/luftaquila'
+    icon: fa-github
+
+  - title: Flickr
+    link: 'https://www.flickr.com/people/luftaquila/'
+    icon: fa-flickr
+
+sidebar-links:
+#  - title: CV
+#    link: '#/path/to/pdf'
+  
+#  - title: <i class="fal fa-envelope"></i> mail@luftaquila.io
+#    link: mailto:mail@luftaquila.io

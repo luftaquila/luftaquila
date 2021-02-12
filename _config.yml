@@ -1,0 +1,36 @@
+title: LUFT - AQUILA
+description: A sky sailing Electron.
+
+# enabled baseurl if you are using project pages in Github or Gitlab
+#baseurl: 
+
+
+permalink: /blog/:title/
+
+include:
+  - _pages
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.babel.js
+  - LICENSE.md
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - src
+  - tailwind.config.js
+  - netlify.toml
+
+collections:
+  works:
+    output: true
+    permalink: /works/:path/
+
+plugins:
+  - jekyll-seo-tag
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
