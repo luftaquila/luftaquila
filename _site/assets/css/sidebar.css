@@ -1,28 +1,26 @@
-@media (min-width: 768px) {
-  aside {
-    grid-column: span 12 / span 12 !important;
-    display: flex;
-    padding: 1rem !important;
-    padding-left: 1.25rem !important;
-    position: static !important;
-  }
-  aside img {
-    width: 3rem !important;
-    height: 3rem !important;
-  }
-  aside div.image {
-    padding: 0;
-    border: none;
-  }
-  main {
-    grid-column: span 12 / span 12 !important;
-  }
-  div.description {
-    place-items: center;
-    padding: 0;
-    padding-left: 1rem;
-  }
-  div.description div.flex, div.description div.social, div.description div.downloads {
-    display: none;
-  }
+aside {
+  grid-column: span 12 / span 12 !important;
+  display: flex;
+  padding: 1rem !important;
+  padding-left: 1.25rem !important;
+  position: static !important;
+}
+aside img {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+aside div.image {
+  padding: 0;
+  border: none;
+}
+main {
+  grid-column: span 12 / span 12 !important;
+}
+div.description {
+  place-items: center;
+  padding: 0;
+  padding-left: 1rem;
+}
+div.description div.flex, div.description div.social, div.description div.downloads {
+  display: none;
 }
