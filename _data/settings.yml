@@ -3,8 +3,8 @@ color-scheme: blue-500
 # you have these options: https://tailwindcss.com/docs/customizing-colors
 # Do not use white or lighter shades of gray since the text may not be visible
 
-touch-icon: /assets/images/figs-180.png
-favicon: /assets/images/figs-32.png
+touch-icon: /assets/images/favicon/apple-touch-icon.png
+favicon: /assets/images/favicon/favicon-32x32.png
 
 footer:
   show-footer: false
