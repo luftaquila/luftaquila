@@ -173,5 +173,3 @@ You can add blog posts in _\_posts_ directory. The index of all the blog posts c
 ![Figs Jekyll Theme online resume cv](/assets/images/screenshots/yellow.png)
 
 ![Figs Jekyll Theme online resume cv](/assets/images/screenshots/red.png)
-
-{% include cta.html %}

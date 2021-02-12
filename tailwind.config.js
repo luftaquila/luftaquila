@@ -6,7 +6,7 @@ module.exports = {
     },
     extend: {},
     fontFamily: {
-      sans: ["IBM Plex Mono", "monospace"],
+      sans: ["Nanum Gothic Coding", "IBM Plex Mono", "monospace"],
     },
   },
   variants: {},

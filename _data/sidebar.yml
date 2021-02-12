@@ -3,8 +3,8 @@ image: /assets/images/profile/profile.jpg
 designations:
   - Programmer.
   - Engineer.
-  - Student.
   - Maker.
+  - Student.
 
 social:
   - title: LinkedIn
