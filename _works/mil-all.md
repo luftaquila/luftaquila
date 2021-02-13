@@ -3,7 +3,7 @@ title: 군생활의 모든 건강 밀알 Mil-All
 description: 2020 국방부 국방 공공데이터 활용 경진대회 출품작
 date: 2020-07-12
 image: /assets/images/works/mil-all/main.png
-layout: page
+layout: post
 ---
 <br>
 <a class='content-link font-bold' target="_blank" href='https://mil-all.luftaquila.io'><i class='fas fa-link'></i> 서비스 링크</a>

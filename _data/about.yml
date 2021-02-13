@@ -1,5 +1,5 @@
-about-text: "필요에 따라 개발자이거나, 엔지니어입니다.<br>모험을 할 때 살아있음을 느낍니다."
+about-text: "필요에 따라, 개발자이거나 엔지니어입니다.<br>모험을 할 때 살아있음을 느낍니다."
 details:
   name: 오병준
   age: <script>document.write(Math.floor((new Date() - new Date(1999, 4, 12)) / (1000 * 3600 * 24 * 365)))</script>
-  residence: <a class='content-link' target='_blank' href='https://goo.gl/maps/ForbmC2fxC1jUrhm8'><i class='fas fa-map-marker-alt'></i> Suwon, Korea</a>
+  residence: <a class='content-link' target='_blank' href='https://goo.gl/maps/ForbmC2fxC1jUrhm8'>🇰🇷 Suwon, Korea</a>

@@ -10,7 +10,7 @@ layout: default
         class="col-span-12 md:col-span-8 shadow-lg rounded-lg bg-white p-4 md:p-8"
       >
         <div class="grid grid-cols-1 gap-6 place-items-center mb-3">
-          {% if page.image %}
+          {% if page.image and page.category != 'category' %}
           <img
             src="/assets/images/onepx.png"
             class="lazy main-img object-cover object-center rounded"

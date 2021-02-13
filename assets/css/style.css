@@ -10,7 +10,7 @@ img.main-img {
   width: auto;
 }
 
-.page img {
+.page img, .post img {
   max-height: 30rem;
   width: auto;
   margin-top: 0.5rem;
@@ -19,15 +19,15 @@ img.main-img {
 }
 
 @media (max-width: 768px) {
-  .page img { max-height: 20rem; }
+  .page img, .post img { max-height: 20rem; }
 }
 
-.page ol > li { list-style: decimal; }
-.page ul > li { list-style: circle; }
-.page li { margin-left: 1.5rem; }
+.page ol > li, .post ol > li { list-style: decimal; }
+.page ul > li, .post ul > li { list-style: circle; }
+.page li, .post li { margin-left: 1.5rem; }
 
-.page > ul, .page > ol { margin-left: 1rem; }
-.page ul, .page ol { margin-bottom: 1rem; }
+.page > ul, .page > ol, .post > ul, .post > ol { margin-left: 1rem; }
+.page ul, .page ol, .post ul, .post ol { margin-bottom: 1rem; }
 
 a.headline-link:hover {
   text-decoration: none; 
@@ -78,10 +78,6 @@ body,html {
 
 h1,h2,h3,h4,h5,h6,p {
     --tw-text-opacity:1;color: rgba(55,65,81,var(--tw-text-opacity))
-}
-
-.post a {
-    text-decoration: underline
 }
 
 .page p, .post p {

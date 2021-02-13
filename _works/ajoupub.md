@@ -3,7 +3,7 @@ title: 야옹이선술집 2020
 description: 아주대학교 축제 주점 야옹이선술집 주문서 관리 서비스
 date: 2021-02-13
 image: /assets/images/works/ajoupub/main.png
-layout: page
+layout: post
 ---
 <br>
 <h3>서비스 링크</h3>

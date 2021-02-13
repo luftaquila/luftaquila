@@ -1,5 +1,13 @@
 title: LUFT - AQUILA
 description: A sky sailing Electron.
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: /assets/images/profile/og.png
+      
+locale: ko_KR
 
 permalink: /blog/:categories/:title/
 
@@ -27,6 +35,7 @@ collections:
     
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 compress_html:
   clippings: all

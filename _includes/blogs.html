@@ -7,7 +7,7 @@
     <a href='/blog' class="text-{{site.data.settings.color-scheme}} headline-link">Blog</a>
   </h2>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-6 py-3">
-    {% for post in site.posts limit: 4 %}
+    {% for post in site.posts limit: 2 %}
     <a href="{{post.url}}">
       <div data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}">
         {% if post.image %}
