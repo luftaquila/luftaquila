@@ -3,13 +3,9 @@ categories:
     name: 프로그래밍
     icon: fa-terminal
   
-  - path: electronics
-    name: 전기전자
-    icon: fa-car-battery
-  
   - path: diy
     name: DIY
-    icon: fa-tools
+    icon: fa-car-battery
   
   - path: documentation
     name: API 문서

@@ -1,3 +1,4 @@
+/* collapsing sidebar start */
 aside {
   grid-column: span 12 / span 12 !important;
   display: flex;
@@ -13,14 +14,11 @@ aside div.image {
   padding: 0;
   border: none;
 }
-main {
-  grid-column: span 12 / span 12 !important;
-}
+main { grid-column: span 12 / span 12 !important; }
 div.description {
   place-items: center;
   padding: 0;
   padding-left: 1rem;
 }
-div.description div.flex, div.description div.social, div.description div.downloads {
-  display: none;
-}
+div.description div.flex, div.description div.social, div.description div.downloads { display: none; }
+/* collapsing sidebar end */
