@@ -1,11 +1,7 @@
 title: LUFT - AQUILA
 description: A sky sailing Electron.
 
-# enabled baseurl if you are using project pages in Github or Gitlab
-#baseurl: 
-
-
-permalink: /blog/:title/
+permalink: /blog/:categories/:title/
 
 include:
   - _pages
@@ -28,7 +24,7 @@ collections:
   works:
     output: true
     permalink: /works/:path/
-
+    
 plugins:
   - jekyll-seo-tag
 

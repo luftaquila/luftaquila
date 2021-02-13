@@ -1,0 +1,20 @@
+categories:
+  - path: coding
+    name: 프로그래밍
+    icon: fa-terminal
+  
+  - path: electronics
+    name: 전기전자
+    icon: fa-car-battery
+  
+  - path: diy
+    name: DIY
+    icon: fa-tools
+  
+  - path: documentation
+    name: API 문서
+    icon: fa-book-spells
+
+  - path: others
+    name: 미분류
+    icon: fa-sitemap

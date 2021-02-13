@@ -1,5 +1,5 @@
 ---
-title: 야옹이선술집2020
+title: 야옹이선술집 2020
 description: 아주대학교 축제 주점 야옹이선술집 주문서 관리 서비스
 date: 2021-02-13
 image: /assets/images/works/ajoupub/main.png
@@ -7,13 +7,15 @@ layout: page
 ---
 <br>
 <h3>서비스 링크</h3>
-<a class='content-link' target="_blank" href='/ajoupub?table=031'><i class='fas fa-link'></i> 테이블</a>
+<a class='content-link font-bold' target="_blank" href='/ajoupub?table=031'><i class='fas fa-link'></i> 테이블</a>
 &emsp;
-<a class='content-link' target="_blank" href='/ajoupub/staff'><i class='fas fa-link'></i> 스태프</a>
+<a class='content-link font-bold' target="_blank" href='/ajoupub/staff'><i class='fas fa-link'></i> 스태프</a>
 &emsp;
-<a class='content-link' target="_blank" href='/ajoupub/kitchen'><i class='fas fa-link'></i> 주방</a>
+<a class='content-link font-bold' target="_blank" href='/ajoupub/kitchen'><i class='fas fa-link'></i> 주방</a>
 &emsp;
-<a class='content-link' target="_blank" href='/ajoupub/statistics'><i class='fas fa-link'></i> 통계</a>
+<a class='content-link font-bold' target="_blank" href='/ajoupub/statistics'><i class='fas fa-link'></i> 통계</a>
+&emsp;
+<a class='content-link font-bold' target="_blank" href='https://github.com/luftaquila/ajoupub'><i class='fas fa-link'></i> GitHub 저장소</a>
 
 <hr style='border-color: darkgray; margin-top: 1rem;'>
 

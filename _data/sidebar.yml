@@ -1,10 +1,9 @@
 name: LUFT-AQUILA
-image: /assets/images/profile/profile.jpg
+image: /assets/images/profile/profile.png
 designations:
   - Programmer.
   - Engineer.
   - Maker.
-  - Student.
 
 social:
   - title: LinkedIn

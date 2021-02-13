@@ -6,8 +6,9 @@ image: /assets/images/works/mil-all/main.png
 layout: page
 ---
 <br>
-<i class='fas fa-link'></i>
-<a class='content-link' target="_blank" href='https://mil-all.luftaquila.io'>서비스 링크</a>
+<a class='content-link font-bold' target="_blank" href='https://mil-all.luftaquila.io'><i class='fas fa-link'></i> 서비스 링크</a>
+&emsp;
+<a class='content-link font-bold' target="_blank" href='https://github.com/luftaquila/mil-all'><i class='fas fa-link'></i> GitHub 저장소</a>
 
 국방부가 공개하는 국방 공공데이터 API를 이용해 개발한 서비스입니다.  
 부대 단위로 그룹을 구성하여 구성원 간의 소통과 구성원의 건강 관리를 도와줍니다.  
