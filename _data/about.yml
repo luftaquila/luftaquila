@@ -1,4 +1,5 @@
-about-text: "학생 개발자 오병준입니다."
+about-text: "학생이자 개발자이지만, 때로는 엔지니어입니다."
 details:
+  name: 오병준
   age: <script>document.write(Math.round((new Date() - new Date(1999, 4, 12)) / (1000 * 3600 * 24 * 365)))</script>
   residence: Suwon, Korea

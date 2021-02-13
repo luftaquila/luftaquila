@@ -22,7 +22,7 @@
       <ul class="flex justify-around mb-3 md:mb-5" style='-webkit-tap-highlight-color: transparent;'>
         {% for item in site.data.sidebar.social %}
         <li>
-          <a href="{{item.link}}" title="{{item.title}}"
+          <a target="_blank" href="{{item.link}}" title="{{item.title}}"
             ><i
               class="fab {{item.icon}} text-3xl md:text-2xl  text-white hover:text-gray-300 transform duration-200"
             ></i
@@ -30,7 +30,7 @@
         </li>
         {% endfor %}
         <li>
-          <a href="http://qr.kakao.com/talk/RmgKn.t2Sxgy8I7hwdhuYZQF1vc-" title="KakaoTalk">
+          <a target="_blank" href="http://qr.kakao.com/talk/RmgKn.t2Sxgy8I7hwdhuYZQF1vc-" title="KakaoTalk">
             <i class='icon-kakaotalk text-3xl md:text-2xl text-white hover:text-gray-300 transform duration-200' style='line-height: 1.7rem;'></i>
           </a>
         </li>

@@ -1,15 +1,15 @@
-<div class="works mb-8 md:mb-12">
+<div class="works mb-8 md:mb-5">
   <h2
     class="font-bold text-xl pb-3 mb-3 border-b"
     data-sal="slide-up"
-    data-sal-duration="800"
+    data-sal-duration="{{site.data.settings.data-sal-duration}}"
   >
-    <a href='/blog' class="text-{{site.data.settings.color-scheme}}">Blog</a>
+    <a href='/blog' class="text-{{site.data.settings.color-scheme}} headline-link"><i class='fas fa-link'></i> Blog</a>
   </h2>
   <div class="grid grid-cols-1 md:grid-cols-2 gap-6 py-3">
     {% for post in site.posts limit: 4 %}
     <a href="{{post.url}}">
-      <div data-sal="slide-up" data-sal-duration="800">
+      <div data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}">
         {% if post.image %}
         <img
           src="/assets/images/onepx.png"
@@ -23,5 +23,10 @@
       </div>
     </a>
     {% endfor %}
+  </div>
+  <div data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}" style='text-align: right; margin-top: 0.25rem;'>
+    <a class='content-link' href='/blog'>
+      See all {{site.works | size}} articles <i class='fas fa-long-arrow-right'></i>
+    </a>
   </div>
 </div>

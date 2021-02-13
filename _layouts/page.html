@@ -13,7 +13,7 @@ layout: default
           {% if page.image %}
           <img
             src="/assets/images/onepx.png"
-            class="lazy w-full object-cover object-center rounded"
+            class="lazy main-img object-cover object-center rounded"
             data-src="{{page.image}}"
             alt="{{page.title}}"
           />
@@ -24,7 +24,7 @@ layout: default
         <div class="mb-3 text-sm text-gray-500">
           {% include breadcrumbs.html %}
         </div>
-        <div class="page">{{content}}</div>
+        <div id="content" class="page">{{content}}</div>
       </main>
     </div>
   </div>

@@ -9,6 +9,7 @@ permalink: /blog/:title/
 
 include:
   - _pages
+  - _works
 
 exclude:
   - Gemfile

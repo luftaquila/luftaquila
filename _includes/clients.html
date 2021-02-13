@@ -2,7 +2,7 @@
   <h2
     class="font-bold text-xl pb-3 mb-3 border-b"
     data-sal="slide-up"
-    data-sal-duration="800"
+    data-sal-duration="{{site.data.settings.data-sal-duration}}"
   >
     My <span class="text-{{site.data.settings.color-scheme}}">Clients</span>
   </h2>
@@ -15,7 +15,7 @@
         data-src="{{item.image}}"
         alt="{{item.name}}"
         data-sal="slide-up"
-        data-sal-duration="800"
+        data-sal-duration="{{site.data.settings.data-sal-duration}}"
       />
     </a>
     {% endfor %}

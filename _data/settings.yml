@@ -15,3 +15,5 @@ disqus-shortname: "demo"
 
 # set this to false
 show-buy-button: false
+
+data-sal-duration: 400

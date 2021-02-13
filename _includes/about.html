@@ -2,15 +2,15 @@
   <h2
     class="font-bold text-xl pb-3 mb-3 border-b"
     data-sal="slide-up"
-    data-sal-duration="800"
+    data-sal-duration="{{site.data.settings.data-sal-duration}}"
   >
     <span class="text-{{site.data.settings.color-scheme}}">About</span>
   </h2>
 
-  <p data-sal="slide-up" data-sal-duration="800">
+  <p data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}">
     {{site.data.about.about-text}}
   </p>
-  <div class="details mt-3 md:mt-6" data-sal="slide-up" data-sal-duration="800">
+  <div class="details mt-3 md:mt-6" data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}">
     <ul>
       {% for item in site.data.about.details %}
       <li class="mb-3 text-right">

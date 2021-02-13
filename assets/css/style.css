@@ -1,10 +1,42 @@
 /* custom css */
-h3 {
-  margin-top: 0.3rem !important;
+h3 { margin-top: 0.3rem !important; }
+
+img.main-img {
+  max-height: 40rem; 
+  width: auto;
 }
 
-@media (min-width: 768px) {
-  .icon-kakaotalk { line-height: 1.3rem !important; }
+.page img {
+  max-height: 30rem;
+  width: auto;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  display: inline;
+}
+
+@media (max-width: 768px) {
+  .page img { max-height: 20rem; }
+}
+
+.page ol > li { list-style: decimal; }
+.page ul > li { list-style: circle; }
+.page li { margin-left: 1.5rem; }
+
+.page > ul, .page > ol { margin-left: 1rem; }
+.page ul, .page ol { margin-bottom: 1rem; }
+
+a.headline-link:hover {
+  text-decoration: none; 
+  border-bottom: 2px solid rgb(59,130,246);
+}
+a.content-link:hover {
+  text-decoration: none; 
+  border-bottom: 1px solid rgb(55, 65, 81);
+}
+a.breadcrums-link { text-decoration: underline; }
+a.works-item { 
+  display: inline-block;
+  margin-bottom: 2rem;
 }
 
 .icon-kakaotalk {
@@ -12,11 +44,10 @@ h3 {
   font-style: normal;
   color: white;
 }
-
-.icon-kakaotalk:before {
-  content: "\e900";
+.icon-kakaotalk:before { content: "\e900"; }
+@media (min-width: 768px) {
+  .icon-kakaotalk { line-height: 1.3rem !important; }
 }
-
 @font-face {
   font-family: 'kakaotalk';
   src: url('/assets/fonts/kakaotalk.eot?3aae7n');
@@ -44,8 +75,8 @@ h1,h2,h3,h4,h5,h6,p {
     text-decoration: underline
 }
 
-.page p,.post p {
-    margin-bottom: 1rem
+.page p, .post p {
+    margin-top: 1rem;
 }
 
 .page h1,.page h2,.page h3,.page h4,.page h5,.page h6,.post h1,.post h2,.post h3,.post h4,.post h5,.post h6 {
@@ -648,6 +679,10 @@ img,video {
 
 .mb-3 {
     margin-bottom: .75rem
+}
+
+.mb-4 {
+    margin-bottom: 1rem
 }
 
 .mb-5 {
