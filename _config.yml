@@ -36,6 +36,7 @@ collections:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+#  - jekyll-target-blank
 
 compress_html:
   clippings: all

@@ -7,15 +7,15 @@ layout: post
 ---
 <br>
 <h3>서비스 링크</h3>
-<a class='content-link font-bold' target="_blank" href='/ajoupub?table=031'><i class='fas fa-link'></i> 테이블</a>
+[테이블](/ajoupub?table=031){:target="_blank"}{:class='link'}
 &emsp;
-<a class='content-link font-bold' target="_blank" href='/ajoupub/staff'><i class='fas fa-link'></i> 스태프</a>
+[스태프](/ajoupub/staff){:target="_blank"}{:class='link'}
 &emsp;
-<a class='content-link font-bold' target="_blank" href='/ajoupub/kitchen'><i class='fas fa-link'></i> 주방</a>
+[주방](/ajoupub/kitchen){:target="_blank"}{:class='link'}
 &emsp;
-<a class='content-link font-bold' target="_blank" href='/ajoupub/statistics'><i class='fas fa-link'></i> 통계</a>
+[통계](/ajoupub/statistics){:target="_blank"}{:class='link'}
 &emsp;
-<a class='content-link font-bold' target="_blank" href='https://github.com/luftaquila/ajoupub'><i class='fas fa-link'></i> GitHub 저장소</a>
+[GitHub 저장소](https://github.com/luftaquila/ajoupub){:target="_blank"}{:class='link'}
 
 <hr style='border-color: darkgray; margin-top: 1rem;'>
 

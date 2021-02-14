@@ -1,6 +1,9 @@
 /* custom css start */
-h3 { margin-top: 0.3rem !important; }
-.post { padding-bottom: 1rem; }
+
+h3 { margin-top: 0.3rem !important }
+
+.post { padding-bottom: 1rem }
+#content p { color: rgb(17, 24, 39) !important }
 
 img.main-img {
   max-height: 40rem; 
@@ -21,23 +24,43 @@ img.main-img {
 .page > ul, .page > ol, .post > ul, .post > ol { margin-left: 1rem; }
 .page ul, .page ol, .post ul, .post ol { margin-bottom: 1rem; }
 
-a.headline-link:hover {
-  text-decoration: none; 
-  border-bottom: 2px solid rgb(59,130,246);
+
+.underline, .hover\:underline:hover, #content a:hover {
+  border-bottom: 0.0625rem solid;
+  border-color: attr(color);
+  text-decoration: none;
 }
-a.content-link:hover {
-  text-decoration: none; 
-  border-bottom: 1px solid rgb(55, 65, 81);
+.underline-bold { border-bottom: 0.125rem solid attr(color); }
+.no-underline {
+  text-decoration: none !important;
+  border-bottom: none !important;
 }
 a.breadcrums-link { text-decoration: underline; }
 a.works-item { 
+  text-decoration: none !important;
   display: inline-block;
   margin-bottom: 2rem;
+  padding: 0.5rem;
+}
+a.works-item:hover {
+  border: 0.0625rem solid;
+  border-color: attr(color);
+  border-radius: 5px;
 }
 a.category-link { color: rgb(55, 65, 81); }
 a.category-link:hover {
   color: white;
   background-color: rgba(59,130,246,0.8);
+}
+a.link:before {
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  content: "\f0c1  ";
+}
+a.external:before {
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  content: "\f35d  ";
 }
 
 .icon-kakaotalk {
@@ -828,18 +851,6 @@ img,video {
 
 .italic {
     font-style: italic
-}
-
-.underline {
-    text-decoration: underline
-}
-
-.no-underline {
-    text-decoration: none
-}
-
-.hover\:underline:hover {
-    text-decoration: underline
 }
 
 .w-6 {
