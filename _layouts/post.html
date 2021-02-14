@@ -21,8 +21,16 @@ layout: default
           <h1 class="font-bold text-2xl text-center">{{page.title}}</h1>
           <p class="text-center">{{page.description}}</p>
         </div>
-        <div class="mb-8 text-sm text-gray-500">
+        <!-- HITS
+        <div style="width: fit-content; margin: auto">
+          <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}" target="_blank">
+            <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}/{{ page.url | remove_first: '/' | replace: '/', '-' }}.svg" />
+          </a>
+        </div> 
+        -->
+        <div class="mb-8 text-sm text-gray-500" style='margin-top: 1rem;'>
           {% include breadcrumbs.html %}
+          <div style='float: right'>{{ page.date | date: "%Y년 %m월 %d일" }}</div>
         </div>
         <div id="content" class="post">{{content}}</div>
         <div class="border-t py-5">{% include utterance.html %}</div>

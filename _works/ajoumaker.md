@@ -1,11 +1,10 @@
 ---
 title: 아주대학교 메이커스페이스
 description: 아주대학교 메이커스페이스 장비 사용 관리 & 통계 서비스
-date: 2021-02-10
+date: 2018-11-07
 image: /assets/images/works/ajoumaker/main.png
 layout: post
 ---
-<br>
 [서비스 링크](/ajoumaker){:target="blank"}{:class='link'}
 &emsp;
 [GitHub 저장소](https://github.com/luftaquila/ajoumaker){:target="_blank"}{:class='link'}  

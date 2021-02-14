@@ -19,7 +19,7 @@ permalink: /blog/
 </div>
 
 <h3 class="font-bold text-2xl" style='margin-top: 2rem !important;'>All Posts</h3>
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4" style="align-items: center">
   {% for post in site.posts %} 
   <a href="{{post.url}}" class="no-underline">
     {% if post.image %}
