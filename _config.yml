@@ -14,6 +14,7 @@ permalink: /blog/:categories/:title/
 include:
   - _pages
   - _works
+  - _docs
 
 exclude:
   - Gemfile
@@ -32,6 +33,10 @@ collections:
   works:
     output: true
     permalink: /works/:path/
+    
+  docs:
+    output: true
+    permalink: /docs/:path/
     
 plugins:
   - jekyll-seo-tag

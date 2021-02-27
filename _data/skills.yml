@@ -1,14 +1,23 @@
-- name: C
-  skillLevel: 70 #do not add '%' symbol. It will be added automatically
-  color: "text-red-400" # choose a tailwind color class
+- name: C/C++
+  skillLevel: 100
+  color: "#E3242B"
+  image: c.png
+  width: 50
+  y: 24
 
 - name: Node.js
-  skillLevel: 70
-  color: "text-green-400"
+  skillLevel: 100
+  color: "#3C873A"
+  image: nodejs.png
+  width: 50
+  y: 35
 
 - name: Python
-  skillLevel: 60
-  color: "text-indigo-400"
+  skillLevel: 100
+  color: "#306998"
+  image: python.png
+  width: 40
+  y: 30
 
 #- name: Python
 #  skillLevel: 70

@@ -6,10 +6,6 @@ categories:
   - path: diy
     name: DIY
     icon: fa-car-battery
-  
-  - path: documentation
-    name: API 문서
-    icon: fa-book-spells
 
   - path: others
     name: 미분류

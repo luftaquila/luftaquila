@@ -2,5 +2,6 @@ about-text: "필요에 따라, 개발자이거나 엔지니어입니다.<br>모�
 details:
   <i class='fas fa-fw fa-portrait'></i> Name&ensp;: 오병준
   <i class='fal fa-fw fa-hourglass-half'></i> Age&emsp;: <script>document.write(Math.floor((new Date() - new Date(1999, 4, 12)) / (1000 * 3600 * 24 * 365)))</script>
-  <i class='fas fa-fw fa-sparkles'></i> Major&nbsp;: Electronic Engineering
+  <i class='fas fa-fw fa-graduation-cap'></i> Major&nbsp;: Electronic Engineering
+  #<i class='fas fa-fw fa-sparkles'></i> Skills&nbsp;: C/C++, <i class='fab fa-node-js'></i>, <i class='fab fa-python'></i>
   <i class='fas fa-fw fa-home'></i> Residence: <a class='content-link' target='_blank' href='https://goo.gl/maps/ForbmC2fxC1jUrhm8'>🇰🇷 Suwon, Korea</a>

@@ -1,0 +1,96 @@
+h3 { margin-top: 0.3rem !important }
+
+.post { padding-bottom: 1rem }
+#content p { color: rgb(17, 24, 39) !important }
+
+/* inpage image and video tag */
+img.main-img {
+  max-height: 40rem; 
+  width: auto;
+}
+.page img, .post img, .page video, .post video {
+  max-height: 30rem;
+  width: auto;
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  display: inline;
+}
+@media (max-width: 768px) {
+  .page img, .post img, .page video, .post video { max-height: 20rem; }
+}
+
+/* inpage list items */
+.page ol > li, .post ol > li { list-style: decimal; }
+.page ul > li, .post ul > li { list-style: circle; }
+.page li, .post li { margin-left: 1.5rem; }
+.page > ul, .page > ol, .post > ul, .post > ol { margin-left: 1rem; }
+.page ul, .page ol, .post ul, .post ol { margin-bottom: 1rem; }
+
+/* inpage blockquotes */
+.page blockquote, .post blockquote {
+  margin: 2em 0;
+  padding: 10px 20px;
+  position: relative;
+  color: rgba(52,73,94,.8);
+  background-color: rgba(192,91,77,.05);
+  border-left: 3px solid rgba(192,91,77,.3);
+  box-shadow: 1px 1px 2px rgba(0,0,0,.125);
+}
+
+/* underlines */
+.underline, .hover\:underline:hover, #content a:hover {
+  border-bottom: 0.0625rem solid;
+  border-color: attr(color);
+  text-decoration: none;
+}
+.underline-bold { border-bottom: 0.125rem solid attr(color); }
+.no-underline { text-decoration: none !important; border-bottom: none !important; }
+
+/* links */
+a.breadcrums-link { text-decoration: underline; }
+a.works-item { 
+  text-decoration: none !important;
+  display: inline-block;
+  margin-bottom: 2rem;
+  padding: 0.5rem;
+}
+a.works-item:hover {
+  border: 0.0625rem solid;
+  border-color: attr(color);
+  border-radius: 5px;
+}
+a.category-link { color: rgb(55, 65, 81); }
+a.category-link:hover {
+  color: white;
+  background-color: rgba(59,130,246,0.8);
+}
+a.link:before {
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  content: "\f0c1  ";
+}
+a.external:before {
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  content: "\f35d  ";
+}
+
+/* extra icon fonts */
+.icon-kakaotalk {
+  font-family: 'kakaotalk' !important;
+  font-style: normal;
+  color: white;
+}
+.icon-kakaotalk:before { content: "\e900"; }
+@media (min-width: 768px) { .icon-kakaotalk { line-height: 1.3rem !important; } }
+@font-face {
+  font-family: 'kakaotalk';
+  src: url('/assets/fonts/kakaotalk.eot?3aae7n');
+  src: url('/assets/fonts/kakaotalk.eot?3aae7n#iefix') format('embedded-opentype'),
+     url('/assets/fonts/kakaotalk.ttf?3aae7n') format('truetype'),
+     url('/assets/fonts/kakaotalk-webfont.woff2') format('woff'),
+     url('/assets/fonts/kakaotalk-webfont.woff') format('woff'),
+     url('/assets/fonts/kakaotalk.svg?3aae7n#kakaotalk') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

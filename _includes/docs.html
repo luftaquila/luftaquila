@@ -1,0 +1,25 @@
+<div class="works mb-8 md:mb-5">
+  <h2
+    class="font-bold text-xl pb-3 mb-3 border-b"
+    data-sal="slide-up"
+    data-sal-duration="{{site.data.settings.data-sal-duration}}"
+  >
+    <a href='/docs' class="text-{{site.data.settings.color-scheme}} headline-link">Docs</a>
+  </h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 py-3">
+    {% assign docs = site.docs | reverse %}
+    {% for doc in docs limit: 2 %}
+    <a href="{{doc.url}}">
+      <div data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}">
+        <h3 class="font-semibold text-center">{{doc.title}}</h3>
+        <p class="text-sm text-center">{{doc.description}}</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <div data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}" style='text-align: right; margin-top: 0.25rem;'>
+    <a class='hover:underline' href='/docs'>
+      See all {{site.docs | size}} docs <i class='fas fa-long-arrow-right'></i>
+    </a>
+  </div>
+</div>
