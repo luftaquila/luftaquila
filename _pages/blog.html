@@ -21,7 +21,7 @@ permalink: /blog/
 <h3 class="font-bold text-2xl" style='margin-top: 2rem !important;'>All Posts</h3>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4" style="align-items: center">
   {% for post in site.posts %} 
-  <a href="{{post.url}}" class="no-underline">
+  <a href="{{post.url}}" class="text-center works-item">
     {% if post.image %}
     <img
       src="/assets/images/onepx.png"
@@ -31,7 +31,7 @@ permalink: /blog/
     />
     {% endif %}
     <h4 class="text-xl font-semibold text-center">{{post.title}}</h4>
-    <p class="text-center">{{post.description}}</p>
+    <p class="text-center" style='margin: 0 0.5rem;'>{{post.description}}</p>
   </a>
   {% endfor %}
 </div>

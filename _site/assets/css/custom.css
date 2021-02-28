@@ -3,7 +3,16 @@ h3 { margin-top: 0.3rem !important }
 .post { padding-bottom: 1rem }
 #content p { color: rgb(17, 24, 39) !important }
 
+.page pre.highlight, .post pre.highlight {
+  overflow: auto;
+  max-width: 89vw;
+}
+
 /* inpage image and video tag */
+div.center {
+  text-align: center;
+}
+
 img.main-img {
   max-height: 40rem; 
   width: auto;
@@ -64,6 +73,10 @@ a.category-link:hover {
   color: white;
   background-color: rgba(59,130,246,0.8);
 }
+
+a.link, a.external, a.download {
+  font-weight: bold
+}
 a.link:before {
   font-family: "Font Awesome 5 Pro";
   font-weight: 900;
@@ -73,6 +86,11 @@ a.external:before {
   font-family: "Font Awesome 5 Pro";
   font-weight: 900;
   content: "\f35d  ";
+}
+a.download:before {
+  font-family: "Font Awesome 5 Pro";
+  font-weight: 900;
+  content: "\f019  ";
 }
 
 /* extra icon fonts */
