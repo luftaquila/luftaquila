@@ -1,0 +1,29 @@
+---
+title: Gallery
+category: category
+layout: page
+permalink: /photos/
+---
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4" style="align-items: center">
+  {% assign photos = site.photos | reverse %}
+  {% for post in photos %} {% if post.image %}
+  <a href="{{post.url}}" class="no-underline">
+    <img
+      src="/assets/images/onepx.png"
+      data-src="{{post.image}}"
+      alt="{{post.title}}"
+      class="lazy rounded"
+    />
+    {% endif %}
+    <!--
+    <h4 class="text-xl font-semibold text-center">{{post.title}}</h4>
+    <p class="text-center" style='margin: 0 0.5rem;'>{{post.description}}</p>
+    -->
+  </a>
+  {% endfor %}
+</div>
+
+Gallery
+  https://css-tricks.com/seamless-responsive-photo-grid/
+  https://stackoverflow.com/questions/22742354/how-create-grid-out-of-images-of-different-sizes

@@ -15,6 +15,7 @@ include:
   - _pages
   - _works
   - _docs
+  - _photos
 
 exclude:
   - Gemfile
@@ -37,6 +38,10 @@ collections:
   docs:
     output: true
     permalink: /docs/:path/
+    
+  photos:
+    output: true
+    permalink: /photos/:path/
     
 plugins:
   - jekyll-seo-tag

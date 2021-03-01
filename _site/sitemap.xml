@@ -5,6 +5,10 @@
 <lastmod>2021-02-21T00:00:00+09:00</lastmod>
 </url>
 <url>
+<loc>/photos/test/</loc>
+<lastmod>2018-11-07T00:00:00+09:00</lastmod>
+</url>
+<url>
 <loc>/blog/diy/fixing-broken-earphones/</loc>
 <lastmod>2017-07-20T00:00:00+09:00</lastmod>
 </url>
@@ -119,6 +123,12 @@
 </url>
 <url>
 <loc>/blog/others/</loc>
+</url>
+<url>
+<loc>/photos/</loc>
+</url>
+<url>
+<loc>/_photos/test/</loc>
 </url>
 <url>
 <loc>/works/</loc>

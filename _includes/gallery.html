@@ -1,0 +1,33 @@
+<div class="works mb-8 md:mb-5">
+  <h2
+    class="font-bold text-xl pb-3 mb-3 border-b"
+    data-sal="slide-up"
+    data-sal-duration="{{site.data.settings.data-sal-duration}}"
+  >
+    <a href='/photos' class="text-{{site.data.settings.color-scheme}} headline-link">Gallery</a>
+  </h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6 py-3">
+    {% assign photos = site.photos | reverse %}
+    {% for photo in photos limit: 2 %}
+    <a href="{{photo.url}}">
+      <div data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}">
+        <img
+          src="/assets/images/onepx.png"
+          class="lazy h-44 w-full object-cover object-center rounded"
+          data-src="{{photo.image}}"
+          alt="{{photo.title}}"
+        />
+        <!--
+        <h3 class="font-semibold text-center">{{photo.title}}</h3>
+        <p class="text-sm text-center">{{photo.description}}</p>
+        -->
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <div data-sal="slide-up" data-sal-duration="{{site.data.settings.data-sal-duration}}" style='text-align: right; margin-top: 0.25rem;'>
+    <a class='hover:underline' href='/photos'>
+      See all {{site.photos | size}} photos <i class='fas fa-long-arrow-right'></i>
+    </a>
+  </div>
+</div>
