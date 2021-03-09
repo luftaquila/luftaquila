@@ -4,26 +4,31 @@ category: category
 layout: page
 permalink: /photos/
 ---
+<link href="/assets/libraries/flickr-justified-gallery/fjGallery.css" rel="stylesheet">
+<style>
+  div.container {
+    width: 100% !important;
+    max-width: none !important;
+  }
+</style>
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4" style="align-items: center">
+<div class="fj-gallery">
   {% assign photos = site.photos | reverse %}
-  {% for post in photos %} {% if post.image %}
-  <a href="{{post.url}}" class="no-underline">
+  {% for post in photos %}
+  <a href="{{post.url}}" class="fj-gallery-item no-underline">
     <img
-      src="/assets/images/onepx.png"
-      data-src="{{post.image}}"
-      alt="{{post.title}}"
+      src="{{post.thumbnail}}"
+      data-src="{{post.thumbnail}}"
       class="lazy rounded"
+      width="800"
+      height="600"
     />
-    {% endif %}
-    <!--
-    <h4 class="text-xl font-semibold text-center">{{post.title}}</h4>
-    <p class="text-center" style='margin: 0 0.5rem;'>{{post.description}}</p>
-    -->
   </a>
   {% endfor %}
 </div>
-
-Gallery
-  https://css-tricks.com/seamless-responsive-photo-grid/
-  https://stackoverflow.com/questions/22742354/how-create-grid-out-of-images-of-different-sizes
+<script src="/assets/libraries/flickr-justified-gallery/fjGallery.min.js"></script>
+<script>
+  fjGallery(document.querySelectorAll('.fj-gallery'), {
+    itemSelector: '.fj-gallery-item'
+  });
+</script>

@@ -23,7 +23,7 @@ layout: post
 
 보통 제조사에서 출고되는 배터리들은 데이터시트에 정상 범위의 내부 저항이 표시되어 있다. 삼성 SDI가 만드는 18650 전지인 INR18650-25R의 데이터시트를 보자.  
   
-[<i class='fas fa-download'></i> SAMSUNG INR18650-25R.pdf](https://luftaquila.io/droppy/$/E3a96)  
+[<i class='fas fa-download'></i> SAMSUNG INR18650-25R.pdf]({{ page.assets }}/SAMSUNG INR18650-25R.pdf)  
 
 배터리의 특성을 기술하는 Characteristics 항목에 아래와 같이 출고 시 배터리의 내부 저항이 있다.
 <center>

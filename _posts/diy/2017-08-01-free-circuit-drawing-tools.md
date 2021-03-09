@@ -49,7 +49,7 @@ PCB와 Code 탭은 각각 PCB를 설계하거나 아두이노처럼 프로그램
 <br>
 굳이 단점을 하나 꼽자면, 라이브러리가 너무 방대해서 원하는 부품을 찾기가 어렵다. 일상 생활에 자주 사용하는 부품만 따로 모아 만든 라이브러리 파일을 공유한다.  
 
-[<i class='fas fa-download'></i> favorites.TCLib](https://luftaquila.io/droppy/$/zoltT)  
+[<i class='fas fa-download'></i> favorites.TCLib]({{ page.assets }}/favorites.TCLib)  
 
 
 파일을 다운받아 TinyCAD 설치 폴더 안의 library 폴더에 집어넣거나, <kbd>Libraries...</kbd>도구에서 Add로 파일을 선택해 추가하면 왼쪽의 라이브러리 목록에서 볼 수 있다.  

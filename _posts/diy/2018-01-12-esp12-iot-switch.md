@@ -40,8 +40,8 @@ ESP-12는 각 핀 사이의 간격인 핀 피치가 2mm로 2.54mm인 아두이�
 
 배선이 끝났으면 FTDI 모듈과 컴퓨터를 연결하고, 펌웨어를 새로 업로드한다. 펌웨어 업로드에는 아래 두 파일이 필요하다. `esp8266_flasher.exe`에서 Bin을 클릭해서 `v0.9.2.2 AT Firmware.bin` 파일을 선택한다. 포트 번호인 COM1 부분은 실제 FTDI 모듈이 연결된 포트 번호로 바꿔주어야 한다. FTDI 모듈의 포트 번호는 윈도우의 경우 장치관리자(devmgmt.msc)의 포트 탭에서 확인할 수 있다. Download 버튼을 누르면 펌웨어 덮어쓰기를 시작한다.
 
-[<i class='fas fa-download'></i> esp8266_flasher.exe](https://luftaquila.io/droppy/$/AYpDi)
-[<i class='fas fa-download'></i> v0.9.2.2 AT Firmware.bin](https://luftaquila.io/droppy/$/mtJCC)
+[<i class='fas fa-download'></i> esp8266_flasher.exe]({{ page.assets }}/esp8266_flasher.exe)  
+[<i class='fas fa-download'></i> v0.9.2.2 AT Firmware.bin]({{ page.assets }}/v0.9.2.2 AT Firmware.bin)
 
 #### 진짜 제작
 준비할 게 많았지만, 이제 정말 프로그래밍이다.

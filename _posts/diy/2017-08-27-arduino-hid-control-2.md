@@ -28,7 +28,7 @@ layout: post
 #### 전투 개시
 배선이 끝났으면 코드를 업로드할 차례다. 아두이노에는 아직 전원을 공급하지 않는다.
 
-[<i class='fas fa-download'></i> HoodLoader2.zip](https://luftaquila.io/droppy/$/c967q)
+[<i class='fas fa-download'></i> HoodLoader2.zip]({{ page.assets }}/HoodLoader2.zip)
 
 Hoodloader2 부트로더를 다운로드하고, 압축을 풀어 아두이노 스케치 설치 폴더 아래의 hardwares 폴더 안으로 이동시킨다.
 

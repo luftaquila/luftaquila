@@ -100,7 +100,7 @@ a.download:before {
   color: white;
 }
 .icon-kakaotalk:before { content: "\e900"; }
-@media (min-width: 768px) { .icon-kakaotalk { line-height: 1.3rem !important; } }
+@media (min-width: 768px) { .icon-kakaotalk { line-height: 1.7rem !important; } }
 @font-face {
   font-family: 'kakaotalk';
   src: url('/assets/fonts/kakaotalk.eot?3aae7n');

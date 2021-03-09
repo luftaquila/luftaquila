@@ -1,2 +1,5 @@
 .jekyll-cache
 node_modules
+
+/assets/gallery/photos
+_site/assets/gallery/photos
