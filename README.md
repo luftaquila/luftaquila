@@ -12,13 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+| <img src="https://github-readme-stats.vercel.app/api?username=luftaquila&show_icons=true&theme=vue&include_all_commits=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luftaquila&layout=compact&theme=vue&langs_count=10&hide=html,css,scss"> |
+| --- | --- |
 
-<table>
-    <tr>
-        <td style="border: none;">
-            <img src="https://github-readme-stats.vercel.app/api?username=luftaquila&show_icons=true&theme=dark">
-        </td>
-    </tr>
-</table>
+<br>
+<div align="center">
+    <img src="https://img.shields.io/github/followers/luftaquila.svg?style=social&label=Follow&maxAge=z">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluftaquila&count_bg=%2379C83D&title_bg=%23555555&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluftaquila&count_bg=%2379C83D&title_bg=%23555555&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
