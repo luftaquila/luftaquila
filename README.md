@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there 🙋‍♂️
+# Hi there! 🙋‍♂️
 This is _**LUFT-AQUILA**_, 💻developer and ⚡electronic engineer studying in Ajou University, 🇰🇷 Korea.  
 You can find more details on my website 🌐[luftaquila.io](https://luftaquila.io). Hope you enjoy!
 
