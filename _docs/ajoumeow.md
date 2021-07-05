@@ -4,7 +4,7 @@ description: 미유미유 REST API 문서
 date: 2021-02-21
 layout: post
 ---
-[GitHub 저장소](https://github.com/luftaquila/ajoumeow){:target="_blank"}{:class='link'}  
+[서비스 소개](https://luftaquila.io/works/ajoumeow/){:target="_blank"}{:class='link'}  
 <br>
 
 # Auth API

@@ -5,6 +5,7 @@ aside {
   padding: 1rem !important;
   padding-left: 1.25rem !important;
   position: static !important;
+  font-family: IBM Plex Mono, monospace;
 }
 aside img {
   width: 3rem !important;

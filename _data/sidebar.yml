@@ -18,10 +18,6 @@ social:
     link: 'https://github.com/luftaquila'
     icon: fa-github
 
-  - title: Flickr
-    link: 'https://www.flickr.com/people/luftaquila/'
-    icon: fa-flickr
-
 sidebar-links:
 #  - title: CV
 #    link: '#/path/to/pdf'

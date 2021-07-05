@@ -3,9 +3,24 @@ h3 { margin-top: 0.3rem !important }
 .post { padding-bottom: 1rem }
 #content p { color: rgb(17, 24, 39) !important }
 
+.page .highlight, .post .highlight {
+  width: fit-content;
+  border-radius: 5px;
+}
 .page pre.highlight, .post pre.highlight {
   overflow: auto;
   max-width: 89vw;
+}
+
+/* Table in post */
+.post table {
+  
+}
+.post table th {
+  border-bottom: 1px solid rgb(17, 24, 39);
+}
+.post table td, .post table th {
+  padding: .5rem 1rem;
 }
 
 /* inpage image and video tag */
@@ -62,11 +77,14 @@ a.works-item {
   display: inline-block;
   margin-bottom: 2rem;
   padding: 0.5rem;
+  border: 0.0625rem solid;
+  border-radius: 5px;
+  border-color: white;
+  background-color: white;
 }
 a.works-item:hover {
-  border: 0.0625rem solid;
-  border-color: attr(color);
-  border-radius: 5px;
+  border-color: white!important;
+  background-color: Gainsboro;
 }
 a.category-link { color: rgb(55, 65, 81); }
 a.category-link:hover {

@@ -11,10 +11,9 @@ layout: photo
     max-width: none !important;
   }
   img.main-img {
-    width: 100% !important;
     height: auto !important;
-    max-width: 1500px !important;
-    max-height: none !important;
+    max-width: 100% !important;
+    max-height: 100vh !important;
   }
   img.exif {
     width: 50px;
@@ -37,10 +36,10 @@ layout: photo
 <img src='/assets/images/icons/image.png' class='exif'> ##size##MB
 
 <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' class='no-underline'>
-  <img src='/assets/images/icons/ccl/cc.png'>
-  <img src='/assets/images/icons/ccl/by.png'>
-  <img src='/assets/images/icons/ccl/nc.png'>
-  <img src='/assets/images/icons/ccl/nd.png'>
+  <img src='/assets/images/icons/ccl/cc.png' class='exif'>
+  <img src='/assets/images/icons/ccl/by.png' class='exif'>
+  <img src='/assets/images/icons/ccl/nc.png' class='exif'>
+  <img src='/assets/images/icons/ccl/nd.png' class='exif'>
 </a>
 
 <span style='float: right; font-size: 0.6rem'>icons by <a target="_blank" href="https://icons8.com">Icons8</a></span>

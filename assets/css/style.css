@@ -170,7 +170,7 @@ fieldset,ol,ul {
 ol, ul { list-style: none }
 
 html {
-  font-family: IBM Plex Mono, monospace;
+  font-family: 'Source Code Pro', "Nanum Gothic", IBM Plex Mono, monospace;
   line-height: 1.5
 }
 
