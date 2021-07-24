@@ -16,10 +16,13 @@ with open('photo_template.md', encoding='utf8') as f:
 
 print()
 
-result = { "total": 0, "thumbnail": 0, "markdown": 0, "error": 0 }
+result = { "total": 0, "thumbnail": 0, "markdown": 0, "error": 0, "skipped": 0 }
   
 for i, photo in enumerate(os.scandir(os.path.join(os.getcwd(), 'photos'))):
-  if photo.is_dir(): continue
+  if photo.is_dir():
+    result['skipped'] += 1
+    print(i + 1, '/', len(os.listdir(os.path.join(os.getcwd(), 'photos'))), ' folder:', os.path.basename(photo))
+    continue
   with open(os.path.join(os.getcwd(), 'photos', photo), 'rb') as f:
     result['total'] += 1
     md = template
@@ -93,3 +96,4 @@ print('RESULT: total: ', result['total'])
 print('  markdown generation: ', result['markdown'])
 print('  thumbnail generation: ', result['thumbnail'])
 print('  error: ', result['error'])
+print('  skipped: ', result['skipped'])
