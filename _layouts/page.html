@@ -21,11 +21,6 @@ layout: default
           <h1 class="font-bold text-2xl text-center">{{page.title}}</h1>
           <p class="text-center">{{page.description}}</p>
         </div>
-        {% if page.title == 'Gallery' %}
-        <div style="width: fit-content; margin: auto">
-          <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fluftaquila.io{{ page.url | url_encode }}&count_bg=%2379C83D&title_bg=%23555555&icon=googlefit.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-        </div>
-        {% endif %}
         <div class="mb-4 md:mb-8 text-sm text-gray-500">
           {% include breadcrumbs.html %}
         </div>
