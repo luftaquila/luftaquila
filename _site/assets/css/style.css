@@ -20,13 +20,25 @@ h1, h2 ,h3 ,h4 ,h5 ,h6 ,p { --tw-text-opacity: 1; color: rgba(55,65,81,var(--tw-
 }
 
 .page h3,.post h3 {
+  margin-top: 0.3rem !important;
   font-size: 1.5rem;
   line-height: 2rem
 }
 
-.page h4,.page h5,.page h6,.post h4,.post h5,.post h6 {
+.page h4,.post h4 {
+  padding-top: 1rem !important;
   font-size: 1.25rem;
   line-height: 1.75rem
+}
+
+.page h5,.post h5 {
+  font-size: 1rem;
+  line-height: 1.5rem
+}
+
+.page h6,.post h6 {
+  font-size: .75rem;
+  line-height: 1rem
 }
 
 .sidebar {
@@ -184,7 +196,7 @@ body {
   border: 0 solid #e5e7eb
 }
 
-hr { border-top-width: 1px }
+hr { border-top-width: 1px; border-color: lightslategray; }
 
 img { border-style: solid }
 

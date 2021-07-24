@@ -4,7 +4,7 @@ description: 아주대학교 축제 주점 야옹이선술집 주문서 관리 �
 date: 2020-05-26
 assets: /assets/images/works/ajoupub
 image: /assets/images/works/ajoupub/main.png
-layout: post
+layout: docs
 ---
 <h3>서비스 링크</h3>
 [테이블](/ajoupub?table=031){:target="_blank"}{:class='link'}

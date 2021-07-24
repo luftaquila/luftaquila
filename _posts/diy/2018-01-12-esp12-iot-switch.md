@@ -6,6 +6,7 @@ assets: /assets/posts/diy/2018-01-12-esp12-iot-switch
 image: /assets/posts/diy/2018-01-12-esp12-iot-switch/main.png
 layout: post
 ---
+업그레이드 버전을 만들었다. 하드웨어에 대한 상세한 설명도 첨부했으니 [집 IoT 컨트롤 허브 만들기](https://luftaquila.io/blog/diy/iot-switch-final/){:target="_blank"}{:class='link'}를 참고하는 것도 좋을 것 같다.
 
 하루를 마치고 침대에 누우면 잠이 솔솔 온다. 이대로 잠들어버리면 참 좋을 텐데 아차, 방에 불을 끄지 않았다.  불 끄러 침대에서 일어나는게 세상에서 제일 귀찮은데 안타깝게도 불 좀 끄라고 부를 동생이 없다면 방법은 하나다. 대신 불을 끌 누군가를 직접 만드는 수밖에.
 

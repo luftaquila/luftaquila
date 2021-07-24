@@ -3,7 +3,7 @@ title: 아주대학교 미유미유
 description: 아주대학교 고양이동아리 미유미유 급식일정 관리 서비스
 date: 2018-05-15
 image: /assets/images/works/ajoumeow/main.png
-layout: post
+layout: docs
 ---
 [서비스 링크](/ajoumeow){:target="_blank"}{:class='link'}
 &emsp;

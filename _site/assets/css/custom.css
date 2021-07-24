@@ -1,8 +1,7 @@
-h3 { margin-top: 0.3rem !important }
-
 .post { padding-bottom: 1rem }
 #content p { color: rgb(17, 24, 39) !important }
 
+/* Codes */
 .page .highlight, .post .highlight {
   width: fit-content;
   border-radius: 5px;
@@ -12,35 +11,35 @@ h3 { margin-top: 0.3rem !important }
   max-width: 89vw;
 }
 
-/* Table in post */
-.post table {
-  
-}
+/* Tables */
+.post table { border: 1px solid gray; }
 .post table th {
-  border-bottom: 1px solid rgb(17, 24, 39);
-}
-.post table td, .post table th {
   padding: .5rem 1rem;
+  border-bottom: 1px solid rgb(17, 24, 39);
+  border-right: 1px solid rgb(17, 24, 39);
 }
+.post table td {
+  padding: .5rem 1rem;
+  border-right: 1px dashed rgb(17, 24, 39);
+}
+.photo table, .photo table th, .photo table td { border: none!important; padding: 0px; }
 
 /* inpage image and video tag */
-div.center {
-  text-align: center;
-}
-
-img.main-img {
-  max-height: 40rem; 
-  width: auto;
-}
+img.main-img { max-height: 40rem;  width: auto; }
+.post img { cursor: pointer; }
 .page img, .post img, .page video, .post video {
   max-height: 30rem;
   width: auto;
   margin-top: 0.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   display: inline;
 }
 @media (max-width: 768px) {
   .page img, .post img, .page video, .post video { max-height: 20rem; }
+}
+div.center {
+  text-align: center; 
+  margin-bottom: 1rem;
 }
 
 /* inpage list items */

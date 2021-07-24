@@ -34,3 +34,10 @@ layout: default
     </div>
   </div>
 </div>
+<script src='/assets/libraries/sweetalert2.min.js'></script>
+<script>
+  for(const img of document.querySelectorAll('.post img')) img.addEventListener('click', event => Swal.fire({ html: `<img style="width: 100%" src="${event.path[0].src}">`, customClass: 'wide-modal' }) );
+</script>
+<style>
+  .wide-modal { width: 90%; }
+</style>

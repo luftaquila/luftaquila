@@ -3,7 +3,7 @@ title: 렌즈 캡 홀더 생성기
 description: 3D 프린터로 뽑을 수 있는 커스텀 렌즈 캡 홀더
 date: 2021-07-10
 image: /assets/images/works/lenscap/main.png
-layout: post
+layout: docs
 ---
 [서비스 링크](https://lens-cap.luftaquila.io){:target="blank"}{:class='link'}
 &emsp;

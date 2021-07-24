@@ -3,7 +3,7 @@ title: Brunch-eater
 description: 브런치 키워드 추출 및 형태소 분석 도구
 date: 2020-11-02
 image: /assets/images/works/brunch-eater/main.png
-layout: post
+layout: docs
 ---
 [GitHub 저장소](https://github.com/luftaquila/brunch-eater){:target="_blank"}{:class='link'}
 
