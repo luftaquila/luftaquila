@@ -60,7 +60,7 @@ for i, photo in enumerate(os.scandir(os.path.join(os.getcwd(), 'photos'))):
         if hasattr(img, 'gps_latitude'):
           GoogleMapsEmbedApiToken = os.getenv('GoogleMapsEmbedApiToken')
           map = img.gps_map_datum if hasattr(img, 'gps_map_datum') else ''
-          md = re.sub('##location##', f'{map} {round(img.gps_latitude[0] + img.gps_latitude[1] / 60, 6)}{img.gps_latitude_ref}, {round(img.gps_longitude[0] + img.gps_longitude[1] / 60, 6)}{img.gps_longitude_ref} Δ{img.gps_altitude}m  \n<iframe src="https://www.google.com/maps/embed/v1/place?key={GoogleMapsEmbedApiToken}&zoom=17&q={img.gps_latitude[0] + img.gps_latitude[1] / 60},{img.gps_longitude[0] + img.gps_longitude[1] / 60}&center={img.gps_latitude[0] + img.gps_latitude[1] / 60},{img.gps_longitude[0] + img.gps_longitude[1] / 60}" frameborder="0" style="width: 80%; max-width:400px; height: 300px; margin: -1rem 0 1rem 50px; border: 0;"></iframe>', md)
+          md = re.sub('##location##', f'{map} {round(img.gps_latitude[0] + img.gps_latitude[1] / 60, 6)}°{img.gps_latitude_ref}, {round(img.gps_longitude[0] + img.gps_longitude[1] / 60, 6)}°{img.gps_longitude_ref} Δ{img.gps_altitude}m  \n<iframe src="https://www.google.com/maps/embed/v1/place?key={GoogleMapsEmbedApiToken}&zoom=17&q={img.gps_latitude[0] + img.gps_latitude[1] / 60},{img.gps_longitude[0] + img.gps_longitude[1] / 60}&center={img.gps_latitude[0] + img.gps_latitude[1] / 60},{img.gps_longitude[0] + img.gps_longitude[1] / 60}" frameborder="0" style="width: 80%; max-width:400px; height: 300px; margin: -1rem 0 1rem 50px; border: 0;"></iframe>', md)
         else:
           md = re.sub('##location##', 'N/A', md)
         
