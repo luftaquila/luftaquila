@@ -16,8 +16,8 @@
 - interest: <i class='far fa-tint'></i> Scuba Diving
   color: bg-blue-400
   
-- interest: <i class='fas fa-globe-americas'></i> Traveling
-  color: bg-pink-400
+#- interest: <i class='fas fa-globe-americas'></i> Traveling
+#  color: bg-pink-400
   
 - interest: <i class='fas fa-bow-arrow'></i> Korean Traditional Archery
   color: bg-indigo-500
