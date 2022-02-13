@@ -1,8 +1,7 @@
 # Hi there! 🙋‍♂️
 This is _**LUFT-AQUILA**_, 💻developer and ⚡electronic engineer studying in Ajou University, 🇰🇷 Korea.  
 You can find more details on my website 🌐[luftaquila.io](https://luftaquila.io). Hope you enjoy!
-
-| <img src="https://github-readme-stats.vercel.app/api?username=luftaquila&show_icons=true&theme=vue&include_all_commits=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luftaquila&layout=compact&theme=vue&langs_count=10&hide=html,css,scss,AutoHotKey"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=luftaquila&show_icons=true&include_all_commits=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luftaquila&layout=compact&langs_count=10&hide=html,css,scss,AutoHotKey"> |
 | --- | --- |
 
 <div align="center">
