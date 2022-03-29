@@ -7,13 +7,13 @@ image: /assets/images/works/ajoupub/main.png
 layout: docs
 ---
 <h3>서비스 링크</h3>
-[테이블](/ajoupub?table=031){:target="_blank"}{:class='link'}
+[테이블](https://ajoupub.luftaquila.io?table=031){:target="_blank"}{:class='link'}
 &emsp;
-[스태프](/ajoupub/staff){:target="_blank"}{:class='link'}
+[스태프](https://ajoupub.luftaquila.io/staff){:target="_blank"}{:class='link'}
 &emsp;
-[주방](/ajoupub/kitchen){:target="_blank"}{:class='link'}
+[주방](https://ajoupub.luftaquila.io/kitchen){:target="_blank"}{:class='link'}
 &emsp;
-[통계](/ajoupub/statistics){:target="_blank"}{:class='link'}
+[통계](https://ajoupub.luftaquila.io/statistics){:target="_blank"}{:class='link'}
 &emsp;
 [GitHub 저장소](https://github.com/luftaquila/ajoupub){:target="_blank"}{:class='link'}
 

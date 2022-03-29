@@ -5,7 +5,7 @@ date: 2018-05-15
 image: /assets/images/works/ajoumeow/main.png
 layout: docs
 ---
-[서비스 링크](/ajoumeow){:target="_blank"}{:class='link'}
+[서비스 링크](https://ajoumeow.luftaquila.io){:target="_blank"}{:class='link'}
 &emsp;
 [GitHub 저장소](https://github.com/luftaquila/ajoumeow){:target="_blank"}{:class='link'}  
 

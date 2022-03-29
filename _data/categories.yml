@@ -1,12 +1,20 @@
 categories:
   - path: coding
     name: 프로그래밍
-    icon: fa-terminal
+    icon: far fa-code
+    color: blue
+
+  - path: e-formula
+    name: E-포뮬러
+    icon: far fa-car
+    color: green
   
   - path: diy
     name: DIY
-    icon: fa-car-battery
+    icon: far fa-car-battery
+    color: pink
 
   - path: others
     name: 미분류
-    icon: fa-sitemap
+    icon: far fa-sitemap
+    color: orange

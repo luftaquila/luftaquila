@@ -5,7 +5,7 @@ date: 2018-11-07
 image: /assets/images/works/ajoumaker/main.png
 layout: docs
 ---
-[서비스 링크](/ajoumaker){:target="blank"}{:class='link'}
+[서비스 링크](https://ajoumaker.luftaquila.io){:target="blank"}{:class='link'}
 &emsp;
 [GitHub 저장소](https://github.com/luftaquila/ajoumaker){:target="_blank"}{:class='link'}  
 

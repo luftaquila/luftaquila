@@ -1,7 +1,7 @@
 ---
 title: IoT 컨트롤 허브 개발
 description: IoT스위치_최종_진짜마지막_끝_완성본.html
-category: diy
+category: coding
 assets: /assets/posts/diy/2021-07-23-iot-switch-final
 image: /assets/posts/diy/2021-07-23-iot-switch-final/main.png
 layout: post

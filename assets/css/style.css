@@ -6,7 +6,8 @@ h1, h2 ,h3 ,h4 ,h5 ,h6 ,p { --tw-text-opacity: 1; color: rgba(55,65,81,var(--tw-
 
 .page h1,.page h2,.page h3,.page h4,.page h5,.page h6,.post h1,.post h2,.post h3,.post h4,.post h5,.post h6 {
   font-weight: 700;
-  margin-bottom: .75rem
+  margin-bottom: .75rem;
+  padding-top: 1rem;
 }
 
 .page h1,.post h1 {

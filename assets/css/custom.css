@@ -85,12 +85,6 @@ a.works-item:hover {
   border-color: white!important;
   background-color: Gainsboro;
 }
-a.category-link { color: rgb(55, 65, 81); }
-a.category-link:hover {
-  color: white;
-  background-color: rgba(59,130,246,0.8);
-}
-
 a.link, a.external, a.download {
   font-weight: bold
 }
@@ -128,4 +122,59 @@ a.download:before {
      url('/assets/fonts/kakaotalk.svg?3aae7n#kakaotalk') format('svg');
   font-weight: normal;
   font-style: normal;
+}
+
+/* button */
+.classic {
+  text-align: center;
+  height: 36px;
+  line-height: 30px;
+  border: 3px solid!important;
+  font-size: 16px;
+  background-color: #fdfdfd;
+  cursor: pointer;
+  box-shadow: 3px 3px #666;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 0 20px;
+  outline: none;
+}
+.classic:hover {
+  opacity: 0.7;
+}
+.classic:active {
+  background-color: #eee;
+  opacity: 1;
+}
+.classic.red {
+  border-color: #d32f2f;
+  color: #d32f2f;
+}
+.classic.blue {
+  border-color: #4D81F1;
+  color: #4D81F1;
+}
+.classic.skyblue {
+  border-color: #039BE5;
+  color: #039BE5;
+}
+.classic.green {
+  border-color: #388e3c;
+  color: #388e3c;
+}
+.classic.orange {
+  border-color: #f57c00;
+  color: #f57c00;
+} 
+.classic.yellow {
+  border-color: #FDD835;
+  color: #FDD835;
+}
+.classic.purple {
+  border-color: #D500F9;
+  color: #D500F9;
+}
+.classic.pink {
+  border-color: #FF80AB;
+  color: #FF80AB;
 }
