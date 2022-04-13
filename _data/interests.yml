@@ -1,8 +1,8 @@
-- interest: <i class='fas fa-terminal'></i> Computer Programming
-  color: bg-green-400
-  
-- interest: <i class='fas fa-microchip'></i> Electronic Engineering
-  color: bg-yellow-400
+#- interest: <i class='fas fa-terminal'></i> Computer Programming
+#  color: bg-green-400
+#  
+#- interest: <i class='fas fa-microchip'></i> Electronic Engineering
+#  color: bg-yellow-400
   
 - interest: <i class='fas fa-rocket'></i> Space Technology
   color: bg-gray-500

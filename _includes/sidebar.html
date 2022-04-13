@@ -1,14 +1,9 @@
 <aside
-  class="sidebar md:sticky col-span-12 md:col-span-4 shadow-lg rounded-lg bg-{{site.data.settings.color-scheme}} p-4 md:p-6"
->
-  <a href="{{'/' | relative_url }}"
-    ><div class="image grid justify-items-center py-3 md:py-5 border-b">
-      <img
-        src="/assets/images/onepx.png"
-        class="lazy w-24 h-24 rounded-full shadow border-4 border-white"
-        data-src="{{site.data.sidebar.image}}"
-        alt="{{site.data.sidebar.name}}"
-      />
+  class="sidebar md:sticky col-span-12 md:col-span-4 shadow-lg rounded-lg bg-{{site.data.settings.color-scheme}} p-4 md:p-6">
+  <a href="{{'/' | relative_url }}">
+    <div class="image grid justify-items-center py-3 md:py-5 border-b">
+      <img src="/assets/images/onepx.png" class="lazy w-24 h-24 rounded-full shadow border-4 border-white"
+        data-src="{{site.data.sidebar.image}}" alt="{{site.data.sidebar.name}}" />
     </div>
   </a>
   <div class="description grid justify-items-center py-3 md:py-5">
@@ -22,33 +17,37 @@
       <ul class="flex justify-around mb-3 md:mb-5" style='-webkit-tap-highlight-color: transparent;'>
         {% for item in site.data.sidebar.social %}
         <li>
-          <a target="_blank" href="{{item.link}}" title="{{item.title}}"
-            ><i
-              class="fab {{item.icon}} text-3xl md:text-2xl  text-white hover:text-gray-300 transform duration-200"
-            ></i
-          ></a>
+          <a target="_blank" href="{{item.link}}" title="{{item.title}}"><i
+              class="fab {{item.icon}} text-3xl md:text-2xl  text-white hover:text-gray-300 transform duration-200"></i></a>
         </li>
         {% endfor %}
         <li>
           <a target="_blank" href="https://go.luftaquila.io/kakao" title="KakaoTalk">
-            <i class='icon-kakaotalk text-3xl md:text-2xl text-white hover:text-gray-300 transform duration-200' style='line-height: 2rem;'></i>
+            <i class='icon-kakaotalk text-3xl md:text-2xl text-white hover:text-gray-300 transform duration-200'
+              style='line-height: 2rem;'></i>
           </a>
         </li>
       </ul>
     </div>
     <div class="downloads">
-      <ul class="flex justify-around pb-3 md:pb-5 text-white" style='padding: 1rem 0rem 0rem;'>
+      <!--
+      <div id="cv" style="text-align: center;">
+        <a style="cursor: pointer; color: white;" class="text-sm" href='/cv'><i class="fal fa-lightbulb" style="margin-right: 0.5rem;"></i><span style="border-bottom: solid 1px;">CV</span></a>
+      </div>
+      -->
+      <ul class="flex justify-around pb-3 md:pb-5 text-white" style='padding: .5rem 0rem 0rem;'>
         {% for item in site.data.sidebar.sidebar-links %}
         <li>
-          <a href="{{item.link}}" class="text-sm hover:underline"
-            >{{item.title}}</a
-          >
+          <a href="{{item.link}}" class="text-sm hover:underline">{{item.title}}</a>
         </li>
         {% unless forloop.last %}
         <li class="font-light px-1">|</li>
         {% endunless %} {% endfor %}
         <li id='email'>
-          <a style="cursor: pointer;" class="text-sm hover:underline" onclick='document.getElementById("email").innerHTML = `<a href="mailto:mail@luftaquila.io" class="text-sm hover:underline"><i class="fal fa-envelope" style="margin-right: 0.5rem"></i>mail@luftaquila.io</a>`;'><i class="fal fa-envelope" style="margin-right: 0.5rem"></i>See E-mail</a>
+          <a style="cursor: pointer;" class="text-sm"
+            onclick='document.getElementById("email").innerHTML = `<a href="mailto:mail@luftaquila.io" class="text-sm"><i class="fal fa-envelope" style="margin-right: 0.5rem;"></i><span style="border-bottom: solid 1px;">mail@luftaquila.io</span></a>`;'><i
+              class="fal fa-envelope" style="margin-right: 0.5rem"></i><span style="border-bottom: solid 1px;">See
+              E-mail</span></a>
         </li>
       </ul>
     </div>

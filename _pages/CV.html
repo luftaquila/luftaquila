@@ -1,0 +1,31 @@
+---
+layout: default
+image: /assets/images/profile/og.png
+title: 오병준
+permalink: /cv/
+---
+<div class="container">
+  <div class="wrapper px-2 md:px-0 my-6 md:my-6">
+    <div class="grid md:grid-cols-12 gap-6 md:gap-6">
+      {% include sidebar.html %}
+      <main class="col-span-12 md:col-span-8 shadow-lg rounded-lg bg-white p-4 md:p-8 overflow-hidden">
+        <div class="about mb-8 md:mb-12 relative z-20">
+          <h2 class="font-bold text-xl pb-3 mb-3 border-b" data-sal="slide-up"
+            data-sal-duration="{{site.data.settings.data-sal-duration}}">
+            <span class="text-{{site.data.settings.color-scheme}}">About</span>
+          </h2>
+
+          <div class="page cv" data-sal="" data-sal-duration="{{site.data.settings.data-sal-duration}}">
+            {% capture my_include %}{% include about.md %}{% endcapture %}
+            {{ my_include | markdownify }}
+          </div>
+
+        </div>
+        <br>
+        {% include works.html %}
+        <br><br>
+        {% include blogs.html %}
+      </main>
+    </div>
+  </div>
+</div>
