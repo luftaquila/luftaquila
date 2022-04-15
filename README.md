@@ -24,14 +24,13 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
+### Embedded
+![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![AVR](https://img.shields.io/badge/avr-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
+![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 ### Mobile
 ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Embedded
-![AVR](https://img.shields.io/badge/avr-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
-![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-<!--![ESP](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)-->
-![ARDUINO](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### Tools
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
