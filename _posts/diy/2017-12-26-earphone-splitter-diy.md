@@ -1,6 +1,6 @@
 ---
 title: 이어폰 분배기 DIY
-description: 3D 모델링 초심자의 실수
+description: 3D 모델링 시행착오
 category: diy
 assets: /assets/posts/diy/2017-12-26-earphone-splitter-diy
 image: /assets/posts/diy/2017-12-26-earphone-splitter-diy/main.png

@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="container">
-  <div class="wrapper px-2 md:px-2 my-4 md:my-6">
-    <div class="grid md:grid-cols-12 gap-4 md:gap-6">
+  <div class="wrapper px-2 md:px-2 my-2 md:my-4">
+    <div class="grid md:grid-cols-12 gap-2 md:gap-4">
       {% include sidebar.html %}
       <main
         class="col-span-12 md:col-span-8 shadow-lg rounded-lg bg-white p-4 md:p-8"
@@ -36,7 +36,7 @@ layout: default
 </div>
 <script src='/assets/libraries/sweetalert2.min.js'></script>
 <script>
-  for(const img of document.querySelectorAll('.post img')) img.addEventListener('click', event => Swal.fire({ html: `<img style="width: 100%" src="${event.path[0].src}">`, customClass: 'wide-modal' }) );
+  for(const img of document.querySelectorAll('.post img')) img.addEventListener('click', event => Swal.fire({ html: `<img style="width: 100%" src="${event.target.src}">`, customClass: 'wide-modal' }) );
 </script>
 <style>
   .wide-modal { width: 90%; }

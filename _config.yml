@@ -11,6 +11,7 @@ locale: ko_KR
 
 permalink: /blog/:categories/:title/
 url: "https://luftaquila.io"
+future: true
 
 include:
   - _pages

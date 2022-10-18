@@ -1,7 +1,7 @@
 ---
 title: IoT 컨트롤 허브 개발
 description: IoT스위치_최종_진짜마지막_끝_완성본.html
-category: coding
+category: dev
 assets: /assets/posts/diy/2021-07-23-iot-switch-final
 image: /assets/posts/diy/2021-07-23-iot-switch-final/main.png
 layout: post
@@ -64,7 +64,7 @@ layout: post
 
 만든 웹 인터페이스는 [IoT Control Hub](https://iot.luftaquila.io/){:target="_blank"}{:class='link'}에서, 서버와 프론트엔드 코드 전체는 [Github 프로젝트](https://github.com/luftaquila/iot){:target="_blank"}{:class='external'}에서 확인할 수 있다.
 
-언제 무슨 바람이 불어 또 다른 걸 IoT로 개조하겠다고 할 지 모르니 [device.js](https://github.com/luftaquila/iot/blob/master/devices/device.js){:target="_blank"}{:class='external'}에서 확장성을 고려하여 각 장비를 Class로 구현했다. 방금 만든 전등 스위치는 신호를 받아서 껐다켰다만 해주면 되니 <kbd>PassiveSwitch</kbd>라고 이름을 지었다. 버튼이 방 전등 하나만 있으면 좀 썰렁해서 데스크탑 컴퓨터를 원격으로 켤 수 있게 WOL 스위치도 구현했다. 얘는 현재 상태를 알 필요도 없이 신호를 받으면 버튼을 딸깍 누르기만 하면 되니 <kbd>PassiveTactSwitch</kbd>라고 이름지었다.
+언제 무슨 바람이 불어 또 다른 걸 IoT로 개조하겠다고 할 지 모르니 [device.js](https://github.com/luftaquila/iot/blob/master/devices/device.mjs){:target="_blank"}{:class='external'}에서 확장성을 고려하여 각 장비를 Class로 구현했다. 방금 만든 전등 스위치는 신호를 받아서 껐다켰다만 해주면 되니 <kbd>PassiveSwitch</kbd>라고 이름을 지었다. 버튼이 방 전등 하나만 있으면 좀 썰렁해서 데스크탑 컴퓨터를 원격으로 켤 수 있게 WOL 스위치도 구현했다. 얘는 현재 상태를 알 필요도 없이 신호를 받으면 버튼을 딸깍 누르기만 하면 되니 <kbd>PassiveTactSwitch</kbd>라고 이름지었다.
 
 #### 작동 테스트
 

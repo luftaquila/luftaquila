@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="container">
-  <div class="wrapper px-2 md:px-2 my-4 md:my-6">
-    <div class="grid md:grid-cols-12 gap-4 md:gap-6">
+  <div class="wrapper px-2 md:px-2 my-2 md:my-4">
+    <div class="grid md:grid-cols-12 gap-2 md:gap-4">
       {% include sidebar.html %}
       <main
         class="col-span-12 md:col-span-8 shadow-lg rounded-lg bg-white p-4 md:p-8"
@@ -30,3 +30,9 @@ layout: default
     </div>
   </div>
 </div>
+<script>
+  const lens = document.evaluate('//*[@id="content"]/p[1]/text()[3]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+  
+  if (lens.textContent === ' 50.0 mm f/1.8 ') lens.textContent = " NIKON AF-S NIKKOR 50mm f/1.8G";
+  else if (lens.textContent === " 100.0-400.0 mm f/4.5-6.3 ") lens.textContent = " TAMRON 100-400mm F/4.5-6.3 Di VC USD A035N";
+</script>

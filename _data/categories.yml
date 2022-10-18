@@ -1,6 +1,6 @@
 categories:
-  - path: coding
-    name: 프로그래밍
+  - path: dev
+    name: 개발
     icon: far fa-code
     color: blue
 

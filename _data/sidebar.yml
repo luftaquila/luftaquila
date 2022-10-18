@@ -6,9 +6,9 @@ designations:
   - Maker.
 
 social:
-  - title: LinkedIn
-    link: 'https://linkedin.com/in/luftaquila'
-    icon: fa-linkedin
+#  - title: LinkedIn
+#    link: 'https://linkedin.com/in/luftaquila'
+#    icon: fa-linkedin
 
   - title: Instagram
     link: 'https://instagram.com/luftaquila'

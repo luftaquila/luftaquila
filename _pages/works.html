@@ -5,7 +5,7 @@ layout: page
 permalink: /works/
 ---
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-4" style="align-items: center">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-2" style="align-items: center">
   {% assign works = site.works | reverse %}
   {% for post in works %} {% if post.image %}
   <a href="{{post.url}}" class="text-center works-item">
