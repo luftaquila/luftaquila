@@ -10,7 +10,7 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 <br>
 
 ## 🚀 Skills & Interests
-#### Languages (ORDER BY `familiarity` DESC)
+### Languages (ORDER BY `familiarity` DESC)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,26 +18,26 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Embedded
+### Embedded
 ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![AVR](https://img.shields.io/badge/avr-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
 ![Automotive](https://img.shields.io/badge/automotive-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)
 
-#### Backend
+### Backend
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
-#### System Software
+### System Software
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![FIRMWARE](https://img.shields.io/badge/Firmware-556472?style=for-the-badge&logo=figshare&logoColor=white)
 
-#### ETC
+### ETC
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-#### DIY!
+### DIY!
 ![WELDING](https://img.shields.io/badge/WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white) 
 ![3DMODELING](https://img.shields.io/badge/3D%20MODELING-E7352C?style=for-the-badge&logo=Autodesk&logoColor=white) 
 ![3DPRINTING](https://img.shields.io/badge/3D%20PRINTING-137CBD?style=for-the-badge&logo=Blueprint&logoColor=white)<br>
