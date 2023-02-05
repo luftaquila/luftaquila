@@ -18,9 +18,9 @@
 현재 아주대학교 기계공학과 자작자동차소학회 A-FA  [E-포뮬러 전기자동차](https://luftaquila.io/blog/e-formula/introduction/) 개발팀에서 전기시스템파트 파트장 및 프로젝트 매니저를 맡고 있습니다.
 
 #### ✨ Others
-같은 관심사를 가진 사람들과 토론하며 더 나은 방향을 찾는 과정을 사랑합니다. 또, 나와는 다른 길을 걷는 사람들과 이야기를 나누며 넓고 얕은 지식을 쌓는 것을 좋아합니다. 내가 아는 지식을 다른 사람에게 "잘" 설명하기 위한 방법에 관심이 많습니다.
+같은 관심사를 가진 사람들과 토론하며 더 나은 방향을 찾는 과정을 좋아합니다. 나와는 다른 길을 걷는 사람들과 이야기를 나누며 넓고 얕은 지식을 쌓는 것 또한 좋아합니다. 내가 아는 지식을 다른 사람에게 "잘" 설명하기 위한 방법에 관심이 많습니다.
 
-#### 🚀 Skills
+#### 🚀 Skills & Interests
 ##### Languages (ORDER BY `familiarity` DESC)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,8 +31,8 @@
 
 
 ##### Embedded
+![RTOS](https://img.shields.io/badge/RTOS-556472?style=for-the-badge&logo=figshare&logoColor=white)
 ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![AVR](https://img.shields.io/badge/avr-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
 ![Automotive](https://img.shields.io/badge/automotive-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)
 
@@ -41,12 +41,7 @@
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
-##### System Software
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![FIRMWARE](https://img.shields.io/badge/Firmware-556472?style=for-the-badge&logo=figshare&logoColor=white)
-
 ##### ETC
-![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ##### DIY!
@@ -58,7 +53,7 @@
 ![PCBARTWORK](https://img.shields.io/badge/PCB ARTWORK-2D50A5?style=for-the-badge&logo=Archicad&logoColor=white)
 
 
-#### 🌠 Interests
+#### 🌠 Other interests
 - 🐈 고양이
 - 📸 [사진](https://luftaquila.io/photos/)
 - ⌨️ [키보드](https://luftaquila.io/keyboard/)

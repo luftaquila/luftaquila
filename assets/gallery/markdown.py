@@ -2,10 +2,8 @@ import re
 import os
 import exif
 from PIL import Image
-from dotenv import load_dotenv
 
-load_dotenv(verbose=True)
-GoogleMapsEmbedApiToken = os.getenv('GoogleMapsEmbedApiToken')
+GoogleMapsEmbedApiToken = "AIzaSyCya2DWkf5zX4lbp4EoHf49Rb6moUk8wIs"
 
 thumb = input('Generate thumbnails? (y/n): ')
 overwrite_thumb = 'n'
