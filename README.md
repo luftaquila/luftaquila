@@ -19,8 +19,6 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 ![RTOS](https://img.shields.io/badge/RTOS-556472?style=for-the-badge&logo=figshare&logoColor=white)
 ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![AVR](https://img.shields.io/badge/avr-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
-![Automotive](https://img.shields.io/badge/automotive-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)
 
 ### Backend
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
