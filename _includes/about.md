@@ -25,24 +25,13 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
-![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 
 ##### Embedded
 ![RTOS](https://img.shields.io/badge/RTOS-556472?style=for-the-badge&logo=figshare&logoColor=white)
 ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-E7352C?style=for-the-badge&logo=esphome&logoColor=white)
-![Automotive](https://img.shields.io/badge/automotive-30B980?style=for-the-badge&logo=Minutemailer&logoColor=white)
 
 ##### Backend
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
-
-##### ETC
-![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ##### DIY!
 ![WELDING](https://img.shields.io/badge/WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)
@@ -56,10 +45,10 @@
 #### 🌠 Other interests
 - 🐈 고양이
 - 📸 [사진](https://luftaquila.io/photos/)
-- ⌨️ [키보드](https://luftaquila.io/keyboard/)
-- 🤿 스쿠버다이빙 & 프리다이빙
-- 🍸 맛있는 술
+- ⌨️  [키보드](https://luftaquila.io/keyboard/)
+- 🤿 스쿠버 & 프리다이빙
 - 🚀 우주 기술
+- 🍸 맛있는 술
 - 🏹 국궁
 
 <!--
