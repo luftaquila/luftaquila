@@ -11,13 +11,15 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 
 ## 🚀 Skills & Interests
 ### Languages (ORDER BY `familiarity` DESC)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-2E3340?style=for-the-badge&logo=c&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RUST](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Embedded
-![RTOS](https://img.shields.io/badge/RTOS-556472?style=for-the-badge&logo=figshare&logoColor=white)
+![Real-Time OS](https://img.shields.io/badge/Real%20Time%20OS-556472?style=for-the-badge&logo=figshare&logoColor=white)
 ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![PPC](https://img.shields.io/badge/ppc-FF7328?style=for-the-badge&logo=power-automate&logoColor=white)
 
 ### Backend
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
