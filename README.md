@@ -41,3 +41,4 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 * ⌨️ [Keyboards](https://luftaquila.io/keyboard/)
 * 🌊 Scuba & Free diving
 * 🚀 Space Technologies
+* ✈️ Military Aviation
