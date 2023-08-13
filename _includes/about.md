@@ -15,39 +15,41 @@
 
 또한 같은 동아리에서 약 200명이 사용하는 [일정 관리 서비스](https://ajoumeow.luftaquila.io/timetable/){:target="_blank"}, [온라인 사진전](https://ajoumeow.luftaquila.io/gallery/){:target="_blank"}, 백오피스 연동 업무처리 챗봇을 개발해 운영하고 있습니다. 이 외에도 [축제 주점 POS 서비스](https://luftaquila.io/works/ajoupub/){:target="_blank"} 등을 개발했습니다.
 
-현재 아주대학교 기계공학과 자작자동차소학회 A-FA  [E-포뮬러 전기자동차](https://luftaquila.io/blog/e-formula/introduction/) 개발팀에서 전기시스템파트 파트장 및 프로젝트 매니저를 맡고 있습니다.
+현재 아주대학교 기계공학과 자작자동차소학회 A-FA  [E-포뮬러 전기자동차](https://luftaquila.io/blog/e-formula/introduction/) 개발팀에서 전기시스템 파트장 및 팀 프로젝트 매니저를 맡고 있습니다.
 
 #### ✨ Others
-같은 관심사를 가진 사람들과 토론하며 더 나은 방향을 찾는 과정을 좋아합니다. 나와는 다른 길을 걷는 사람들과 이야기를 나누며 넓고 얕은 지식을 쌓는 것 또한 좋아합니다. 내가 아는 지식을 다른 사람에게 "잘" 설명하기 위한 방법에 관심이 많습니다.
+같은 관심사를 가진 사람들과 토론하며 더 나은 방향을 찾는 과정을 좋아합니다. 다른 길을 걷는 사람들과 이야기를 나누며 넓고 얕은 지식을 쌓는 것 또한 좋아합니다. 내가 아는 것을 다른 사람에게 "잘" 전달하기 위한 방법에 관심이 많습니다.
 
-#### 🚀 Skills & Interests
-##### Languages (ORDER BY `familiarity` DESC)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 🚀 Skills
+##### 📖 Languages (ORDER BY `familiarity` DESC)
+<!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
+<!-- ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
+<!-- ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luftaquila&layout=compact&theme=vue&hide_title=true&custom_title=Languages%20by%20working%20time&langs_count=10&hide=html,vim%20script,css,autohotkey,bash,json,text,other,cmake,restructuredtext,git%20config,gosu,batchfile,ini,ld,yaml,objective-c,makefile,sh,xml,gitignore,csv,conf,scss,zsh,messages,tmux,cson,less,systemd,diff,fstab,php,ca65%assembler,gitrebase,gitconfig,markdown,c%2b%2b">
 
-##### Embedded
-![RTOS](https://img.shields.io/badge/RTOS-556472?style=for-the-badge&logo=figshare&logoColor=white)
+##### 🕹️ Embedded
+![Real-Time OS](https://img.shields.io/badge/Real%20Time%20OS-556472?style=for-the-badge&logo=figshare&logoColor=white)
 ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![PPC](https://img.shields.io/badge/ppc-FF7328?style=for-the-badge&logo=power-automate&logoColor=white)
 
-##### Backend
+##### 📡 Backend
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-##### DIY!
+##### 🛠️ Do It Yourself!
 ![WELDING](https://img.shields.io/badge/WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)
+![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=Openlayers&logoColor=white)<br>
 ![3DMODELING](https://img.shields.io/badge/3D MODELING-E7352C?style=for-the-badge&logo=Autodesk&logoColor=white)
 ![3DPRINTING](https://img.shields.io/badge/3D PRINTING-137CBD?style=for-the-badge&logo=Blueprint&logoColor=white)<br>
-![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=Openlayers&logoColor=white)
 ![CIRCUITDESIGN](https://img.shields.io/badge/CIRCUIT DESIGN-006600?style=for-the-badge&logo=node-red&logoColor=white)
 ![PCBARTWORK](https://img.shields.io/badge/PCB ARTWORK-2D50A5?style=for-the-badge&logo=Archicad&logoColor=white)
 
 
-#### 🌠 Other interests
+#### 🌠 Interests
 - 🐈 고양이
 - 📸 [사진](https://luftaquila.io/photos/)
 - ⌨️  [키보드](https://luftaquila.io/keyboard/)
 - 🤿 스쿠버 & 프리다이빙
-- 🚀 우주 기술
+- 🚀 항공우주 기술
 - 🍸 맛있는 술
 - 🏹 국궁
 
