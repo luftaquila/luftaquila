@@ -5,6 +5,7 @@ category: e-formula
 assets: /assets/posts/e-formula/2022-03-29-lv-introduction
 image: /assets/posts/e-formula/2022-03-29-lv-introduction/main.png
 layout: post
+published: false
 ---
 
 {% include_relative index.md %}

@@ -3,5 +3,6 @@
     {% for post in site.categories['e-formula'] reversed %}
     <div><a style='font-weight: bold' href="{{post.url}}">{{post.title}}</a></div>
     {% endfor %}
+    추가 중입니다.
 </div>
 <br>

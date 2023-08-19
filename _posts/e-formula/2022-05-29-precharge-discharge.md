@@ -5,6 +5,7 @@ category: e-formula
 assets: /assets/posts/e-formula/2022-05-29-precharge-discharge
 image: /assets/posts/e-formula/2022-05-29-precharge-discharge/precharge.png
 layout: post
+published: false
 ---
 
 {% include_relative index.md %}
