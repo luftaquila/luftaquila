@@ -8,7 +8,7 @@ categories:
     name: E-포뮬러
     icon: far fa-car
     color: green
-  
+
   - path: diy
     name: DIY
     icon: far fa-car-battery

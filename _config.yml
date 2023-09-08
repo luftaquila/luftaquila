@@ -6,7 +6,7 @@ defaults:
       path: ""
     values:
       image: /assets/images/profile/og.png
-      
+
 locale: ko_KR
 
 permalink: /blog/:categories/:title/
@@ -37,15 +37,15 @@ collections:
   works:
     output: true
     permalink: /works/:path/
-    
+
   docs:
     output: true
     permalink: /docs/:path/
-    
+
   photos:
     output: true
     permalink: /photos/:path/
-    
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
