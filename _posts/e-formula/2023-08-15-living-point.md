@@ -16,6 +16,14 @@ layout: post
 
 차량의 12V LV 계통, 12V를 맞으면 타버리는 작고 소중한 논리 소자들, 전선이 소시지만한 300V HV 세 개가 한 기판에 어우러져야 한다. 기본적인 PCB 설계나  풋프린트부터 절연까지 고려해야 할 온갖 요소가 정말 산더미인데 놀랍게도 아무도 우리에게 단 하나도 알려주지 않았다.
 
+<div class='center'>
+  <video controls>
+    <source src="{{ page.assets }}/삽질.mp4" type="video/mp4">
+    Sorry, your browser doesn't support embedded videos.
+  </video>
+  <br>인생에 참 한번에 마음대로 되는게 하나도 없다.
+</div>
+
 그러한 이유로 이후에 새로 입문하고 도전하는 사람들에게 전해주고 싶은, 2년동안 피와 땀과 돈을 흘리며 얻은 리빙 포인트를 먼저 적어보려 한다.
 
 # 리빙 포인트

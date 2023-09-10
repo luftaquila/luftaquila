@@ -5,6 +5,7 @@ category: diy
 assets: /assets/posts/diy/2017-08-01-free-circuit-drawing-tools
 image: /assets/posts/diy/2017-08-01-free-circuit-drawing-tools/main.png
 layout: post
+published: false
 ---
 
 아두이노 같은 걸 만지작거리다 보면 종종 회로도를 그려야 할 때가 있다. 보통은 다른 사람과 공유하기 위해서지만, 프로젝트가 커지면 자기가 알아보기 위해서도 필요하다.  
