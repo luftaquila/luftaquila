@@ -38,7 +38,7 @@ layout: default
 <script>
 (function() {
   for (let link of document.links) {
-    if (link.hostname != window.location.hostname) {
+    if (link.hostname != window.location.hostname && !link.className.includes('forceinternal')) {
       link.target = '_blank';
       link.className += ' external';
     }

@@ -42,7 +42,7 @@ KSAE 대학생 자작자동차대회 출전 차량의 주행 데이터를 수집
 <hr>
 <br>
 
-2023 KSAE 대학생 자작자동차대회 기술아이디어 부문 금상 수상작입니다.
+2023 KSAE 대학생 자작자동차대회 기술아이디어 부문 금상, 2022 아주대학교 아주 훌륭한 SW융합인의 도전 최우수상 수상작입니다.
 
 <div class='center'>
     <img src='/assets/images/works/telemetry/trophy.jpg' style='width: 48%'>
