@@ -29,12 +29,10 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
 ### 🛠️ Do It Yourself!
-![WELDING](https://img.shields.io/badge/WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)&nbsp;
-![3DMODELING](https://img.shields.io/badge/3D%20MODELING-E7352C?style=for-the-badge&logo=Autodesk&logoColor=white)&nbsp;
-![3DPRINTING](https://img.shields.io/badge/3D%20PRINTING-137CBD?style=for-the-badge&logo=Blueprint&logoColor=white)<br>
-![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=Openlayers&logoColor=white)&nbsp;
-![CIRCUITDESIGN](https://img.shields.io/badge/CIRCUIT%20DESIGN-006600?style=for-the-badge&logo=node-red&logoColor=white)&nbsp;
-![PCBARTWORK](https://img.shields.io/badge/PCB%20ARTWORK-2D50A5?style=for-the-badge&logo=Archicad&logoColor=white)&nbsp;
+![WELDING](https://img.shields.io/badge/TIG%20&%20ARC%20WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)<br>
+![3DPRINTING](https://img.shields.io/badge/3D%20MODELING%20&%20PRINTING-E7352C?style=for-the-badge&logo=Blueprint&logoColor=white)<br>
+![PCBARTWORK](https://img.shields.io/badge/PCB%20ARTWORK-006600?style=for-the-badge&logo=Archicad&logoColor=white)&nbsp;
+![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=Openlayers&logoColor=white)
 
 ### 🌠 Other Interests
 * 📸 [Photography](https://luftaquila.io/photos/)
@@ -42,4 +40,3 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 * 🌊 Scuba & Free diving
 * 🚀 Space Technologies
 * ✈️ Military Aviation
-
