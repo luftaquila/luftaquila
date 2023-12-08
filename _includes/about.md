@@ -13,11 +13,11 @@
 #### 🧭 Works
 일상에서 마주하는 귀찮음의 공학적 해결이 최대 관심사입니다. 침대에 누운 채로 전등을 끄기 위해 [IoT 생태계](https://luftaquila.io/works/iot/){:target="_blank"}를 직접 개발해 집에 심었습니다.
 
-5년간 임원진으로 일한 동아리에서는 100명 이상이 꾸준히 사용하는 [일정 관리 서비스](https://luftaquila.io/works/ajoumeow/){:target="_blank"}를 개발해 운영하고 있습니다. 공동 캘린더로 시작해 현재는 관리자 콘솔, [온라인 사진 갤러리](https://ajoumeow.luftaquila.io/gallery/){:target="_blank"}, [축제 주점 주문서 서비스](https://luftaquila.io/works/ajoupub/){:target="_blank"}, 굿즈 판매 관리, 챗봇 등으로 구성된 종합 서비스 포탈이 되었습니다.
+5년간 임원진으로 일한 동아리에서는 100명 이상이 꾸준히 사용하는 [일정 관리 서비스](https://luftaquila.io/works/ajoumeow/){:target="_blank"}를 개발해 운영하고 있습니다. 공동 캘린더로 시작해 현재는 관리자 콘솔, [온라인 사진 갤러리](https://ajoumeow.luftaquila.io/gallery/){:target="_blank"}, [축제 주점 주문서 서비스](https://luftaquila.io/works/ajoupub/){:target="_blank"}, 굿즈 판매 관리, 챗봇 등으로 구성된 종합 서비스가 되었습니다.
 
-기계공학과 소학회에서 [E-포뮬러](https://luftaquila.io/blog/e-formula/introduction/){:target="_blank"} 개발팀의 전기시스템 파트장 및 팀 프로젝트 매니저로 활동했습니다. 페이퍼플랜에서 시작해 2년에 걸쳐 68kW 출력의 경주용 전기자동차를 개발하여 2023 KSAE 대학생 자작자동차대회 E-Formula 부문 동상을 수상했습니다. 같은 대회에서 직접 개발한 [차량 원격 데이터 계측 및 분석 시스템](){:target="_blank"}으로 기술아이디어 금상을 수상했습니다.
+기계공학과 소학회에서 [E-포뮬러](https://luftaquila.io/blog/e-formula/introduction/){:target="_blank"} 개발팀의 전기시스템 파트장 및 팀 프로젝트 매니저로 활동했습니다. 2년에 걸쳐 68kW 출력의 경주용 전기자동차를 개발하여 2023 KSAE 대학생 자작자동차대회에서 E-Formula 부문 동상을 수상했습니다. 같은 대회에서 직접 개발한 [차량 원격 데이터 계측 및 분석 시스템](){:target="_blank"}으로 기술아이디어 금상을 수상했습니다.
 
-실시간 운영체제를 개발하는 (주)알티스트에서 6개월간 RTOS팀 인턴으로 근무하며 ARINC 653 스펙 RTOS 개발, 드라이버 개발 등의 업무를 수행했습니다.
+실시간 운영체제를 개발하는 (주)알티스트에서 6개월간 RTOS팀 인턴으로 근무하며 ARINC 653 스펙 RTOS 개발 업무를 수행했습니다.
 
 #### ✨ Others
 같은 관심사를 가진 사람들과 토론하며 더 나은 방향을 찾는 과정을 좋아합니다. 다른 길을 걷는 사람들과 이야기를 나누며 넓고 얕은 지식을 쌓는 것 또한 좋아합니다. 내가 아는 것을 다른 사람에게 "잘" 전달하기 위한 방법에 관심이 많습니다.
@@ -38,12 +38,11 @@
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ##### 🛠️ Do It Yourself!
-![WELDING](https://img.shields.io/badge/WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)
-![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=Openlayers&logoColor=white)<br>
-![3DMODELING](https://img.shields.io/badge/3D MODELING-E7352C?style=for-the-badge&logo=Autodesk&logoColor=white)
-![3DPRINTING](https://img.shields.io/badge/3D PRINTING-137CBD?style=for-the-badge&logo=Blueprint&logoColor=white)<br>
-![CIRCUITDESIGN](https://img.shields.io/badge/CIRCUIT DESIGN-006600?style=for-the-badge&logo=node-red&logoColor=white)
-![PCBARTWORK](https://img.shields.io/badge/PCB ARTWORK-2D50A5?style=for-the-badge&logo=Archicad&logoColor=white)
+![WELDING](https://img.shields.io/badge/TIG%20&%20ARC%20WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)<br>
+![3DPRINTING](https://img.shields.io/badge/3D%20MODELING%20&%20PRINTING-E7352C?style=for-the-badge&logo=Blueprint&logoColor=white)<br>
+![PCBARTWORK](https://img.shields.io/badge/PCB%20ARTWORK-006600?style=for-the-badge&logo=Archicad&logoColor=white)&nbsp;
+![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=Openlayers&logoColor=white)
+
 
 
 #### 🌠 Interests
