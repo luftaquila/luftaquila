@@ -1,6 +1,6 @@
 ---
-title: 차량 주행 데이터 실시간 원격 모니터링 시스템
-description: 대학생 자작자동차대회 E-Formula 데이터로거
+title: 차량 원격 모니터링 시스템
+description: E-Formula 데이터로거
 date: 2023-09-11
 image: /assets/images/works/telemetry/main.png
 layout: docs

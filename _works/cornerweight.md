@@ -1,6 +1,6 @@
 ---
 title: 차량 코너웨이트 측정 시스템
-description: 대학생 자작자동차대회 차량 무게 측정 도구
+description: 자작차 무게 측정 도구
 date: 2023-09-10
 image: /assets/images/works/cornerweight/cornerweight.jpg
 layout: docs
