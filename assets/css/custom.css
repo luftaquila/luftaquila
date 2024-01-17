@@ -3,7 +3,13 @@ a {
 }
 
 .post { padding-bottom: 1rem }
-#content p { color: rgb(17, 24, 39) !important }
+#content p { color: rgb(17, 24, 39) !important; }
+
+/* Paragraphs */
+.page p, .post p {
+  font-size: 16.5px;
+  font-weight: normal;
+}
 
 /* Codes */
 .page .highlight, .post .highlight {
@@ -42,7 +48,7 @@ img.main-img { max-height: 40rem;  width: auto; }
   .page img, .post img, .page video, .post video { max-height: 20rem; }
 }
 div.center {
-  text-align: center; 
+  text-align: center;
   margin-bottom: 1rem;
 }
 
@@ -185,7 +191,7 @@ a.download:before {
 .classic.orange {
   border-color: #f57c00;
   color: #f57c00;
-} 
+}
 .classic.yellow {
   border-color: #FDD835;
   color: #FDD835;

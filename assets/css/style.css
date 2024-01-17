@@ -5,7 +5,7 @@ h1, h2 ,h3 ,h4 ,h5 ,h6 ,p { --tw-text-opacity: 1; color: rgba(55,65,81,var(--tw-
 .page p, .post p { margin-bottom: 1rem; }
 
 .page h1,.page h2,.page h3,.page h4,.page h5,.page h6,.post h1,.post h2,.post h3,.post h4,.post h5,.post h6 {
-  font-weight: 700;
+  font-weight: 600;
   margin-bottom: .75rem;
   padding-top: 1rem;
 }
@@ -118,7 +118,7 @@ html {
 
 body {
   margin: 0;
-  font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji
+  font-family: 'Source Code Pro', 'Nanum Gothic', system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji
 }
 
 hr {
@@ -134,7 +134,7 @@ abbr[title] {
 b,strong { font-weight: bolder }
 
 code,kbd,pre,samp {
-  font-family: ui-monospace,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  font-family: 'Source Code Pro', 'Nanum Gothic', ui-monospace,SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
   font-size: .8rem;
 }
 
@@ -193,7 +193,7 @@ fieldset,ol,ul {
 ol, ul { list-style: none }
 
 html {
-  font-family: 'Source Code Pro', "Nanum Gothic", IBM Plex Mono, monospace;
+  font-family: 'Source Code Pro', 'Nanum Gothic', 'IBM Plex Mono', monospace;
   line-height: 1.5
 }
 
