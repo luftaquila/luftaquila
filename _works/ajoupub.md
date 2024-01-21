@@ -5,7 +5,6 @@ date: 2020-05-26
 assets: /assets/images/works/ajoupub
 image: /assets/images/works/ajoupub/main.png
 layout: docs
-published: false
 ---
 <h3>서비스 링크</h3>
 [테이블](https://ajoupub.luftaquila.io?table=031){:target="_blank"}{:class='link'}

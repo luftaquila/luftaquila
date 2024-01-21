@@ -36,6 +36,8 @@ layout: post
 
 외국 자작차 동네에도 홍보하느라 기본 README를 영어로 작성해 놓았는데, [한국어 README](https://github.com/luftaquila/monolith/blob/main/README_KO.md)도 있으니 유용하게 사용되길 바란다.
 
+모노리스 데이터로거의 PCB 시제품은 PCBWay에서 제작을 지원해 주셨다. 이와 관련해서는 [PCBWay PCB 제작 후기](https://luftaquila.io/blog/diy/monolith-pcbway/)를 참고하기 바란다.
+
 ## 마치는 글
 대회가 끝나고 기억을 더듬어 전해드릴 수 있는 모든 것을 이 시리즈에 기록해 놓았다. 많이 부족하고 훨씬 더 잘 아시는 분들이 많지만, 어쩌다 자작차에 발을 들여 온갖 삽질을 하고 계실 전국의 많은 대학생들에게 조금이나마 도움이 되길 바란다.
 
