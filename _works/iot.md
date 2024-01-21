@@ -1,6 +1,6 @@
 ---
 title: 홈 IoT 컨트롤 허브
-description: 직접 만드는 IoT 서버/클라이언트
+description: 직접 만드는 홈 IoT 생태계
 date: 2021-07-06
 image: /assets/images/works/iot/main.png
 layout: docs
