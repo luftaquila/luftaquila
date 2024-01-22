@@ -17,7 +17,7 @@ layout: docs
 
 KSAE 대학생 자작자동차대회 출전 차량의 주행 데이터를 수집하기 위한 데이터로깅 시스템입니다.
 
-오픈소스 데이터로거 프로젝트 [모노리스](https://github.com/luftaquila/monolith){:target="blank"}{:class='external'}의 초기 버전입니다.
+오픈소스 데이터로거 프로젝트 [모노리스](https://luftaquila.io/works/monolith/)의 초기 버전입니다.
 
 ![](/assets/images/works/telemetry/poster.jpg)
 

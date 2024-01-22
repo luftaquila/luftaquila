@@ -31,3 +31,14 @@ layout: default
     </div>
   </div>
 </div>
+<script>
+(function() {
+  for (let link of document.links) {
+    console.log(link);
+    if (link.hostname != window.location.hostname && !link.className.includes('forceinternal')) {
+      link.target = '_blank';
+      link.className += ' external';
+    }
+  }
+})();
+</script>
