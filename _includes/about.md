@@ -31,7 +31,7 @@
 <!-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 <!-- ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) -->
 <!-- ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luftaquila&layout=compact&theme=vue&hide_title=true&custom_title=Languages%20by%20working%20time&langs_count=8&hide=html,vim%20script,css,autohotkey,json,text,other,cmake,restructuredtext,git%20config,gosu,batchfile,ini,ld,yaml,objective-c,makefile,sh,xml,gitignore,csv,conf,scss,zsh,messages,tmux,cson,less,systemd,diff,fstab,php,ca65%assembler,gitrebase,gitconfig,markdown,c%2b%2b,arduino,openscad,gdscript,gdscript3,git">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luftaquila&layout=compact&theme=vue&hide_title=true&custom_title=Languages%20by%20working%20time&langs_count=8&hide=html,vim%20script,css,autohotkey,json,text,other,cmake,restructuredtext,git%20config,gosu,batchfile,ini,ld,yaml,objective-c,makefile,sh,xml,gitignore,csv,conf,scss,zsh,messages,tmux,cson,less,systemd,diff,fstab,php,ca65%assembler,gitrebase,gitconfig,java,c%2b%2b,arduino,openscad,gdscript,gdscript3,git">
 
 ##### 🕹️ Embedded
 ![Real-Time OS](https://img.shields.io/badge/Real%20Time%20OS-556472?style=for-the-badge&logo=figshare&logoColor=white)
