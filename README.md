@@ -1,7 +1,8 @@
-# Hi there! 🙋‍♂️
-This is _**LUFT-AQUILA**_, 💻*developer* and 🔋*electronics engineer* studying in Ajou University, 🇰🇷 Korea.  
+# Greetings!
 
-You can find more details on my website 🌐[luftaquila.io](https://luftaquila.io). Hope you enjoy!
+I'm a 💻*developer* and an 🔋*electronics engineer* in 🇰🇷 Korea.
+
+Feel free to visit [luftaquila.io](https://luftaquila.io) for more details. Hope you enjoy!
 
 <!--
 <br>
@@ -21,9 +22,12 @@ You can find more details on my website 🌐[luftaquila.io](https://luftaquila.i
 -->
 
 ### 🕹️ Embedded
-![Real-Time OS](https://img.shields.io/badge/Real%20Time%20OS-556472?style=for-the-badge&logo=figshare&logoColor=white)&nbsp;
+![Real-Time OS](https://img.shields.io/badge/Real--Time%20OS-556472?style=for-the-badge&logo=figshare&logoColor=white)<br>
 ![ARM](https://img.shields.io/badge/arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)&nbsp;
 ![PPC](https://img.shields.io/badge/ppc-FF7328?style=for-the-badge&logo=power-automate&logoColor=white)&nbsp;
+![ESPRESSIF](https://img.shields.io/badge/esp-E7352C?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
+![RISCV](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)<br>
+<sub>(ORDER BY `FAMILIARITY` DESC)</sub>
 
 ### 📡 Backend
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
