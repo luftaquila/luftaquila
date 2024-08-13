@@ -1,7 +1,11 @@
 .jekyll-cache
+.jekyll-metadata
+
 node_modules
 
 _site/*
-**/*.env
+_cache/*
 assets/gallery/photos/*
+
+**/*.env
 *.swp

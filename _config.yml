@@ -49,6 +49,7 @@ collections:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-linkpreview
 #  - jekyll-target-blank
 
 compress_html:
