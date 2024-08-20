@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2023-09-02-discharge/resistor.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [7. 방전 회로](https://dnf.luftaquila.io/t/e-formula/28) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## 개요
@@ -57,3 +63,5 @@ layout: post
 HV의 위력을 체감할 수 있는 사고다. 100W 대신 25W 저항을 사용했다면 저항에서 불이 났을지 알 수 없는 일이다. 어떤 저항을 선택할지는 자유다.
 
 {% include_relative index.md %}
+
+</details>

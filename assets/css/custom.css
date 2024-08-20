@@ -209,6 +209,7 @@ a.download:before {
 .jekyll-linkpreview-wrapper {
   max-width: 600px;
   margin-bottom: 20px;
+  text-align: left!important;
 }
 
 .jekyll-linkpreview-wrapper-inner {

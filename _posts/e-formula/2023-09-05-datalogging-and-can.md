@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2023-09-05-datalogging-and-can/stm.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [11. 데이터로깅과 CAN 통신](https://dnf.luftaquila.io/t/e-formula/32) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## 개요
@@ -120,3 +126,5 @@ CAN 버스 트래픽, 디지털 및 아날로그 입력 신호, 휠 스피드 �
 조금 더 자세한 설명은 [다음 글](https://luftaquila.io/blog/e-formula/monolith-telemetry-datalogger/)에 이어진다.
 
 {% include_relative index.md %}
+
+</details>

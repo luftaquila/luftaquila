@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2024-01-18-monolith-telemetry-datalogger/main.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [+) 모노리스 DIY 데이터로거](https://dnf.luftaquila.io/t/e-formula/33) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## 모노리스
@@ -53,3 +59,5 @@ layout: post
 
 
 {% include_relative index.md %}
+
+</details>

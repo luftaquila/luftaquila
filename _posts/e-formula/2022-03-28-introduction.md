@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2022-03-28-introduction/main.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [0. 들어가며](https://dnf.luftaquila.io/t/e-formula/19) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 ## 들어가며
 전역하고 얼마 지나지 않았던 여름, 1학년 때부터 알고 지내던 기계공학과 친구가 연락을 해 왔다.
 
@@ -130,3 +136,5 @@ E-Formula는 우리가 가지고 놀던 RC카가 아니다. 진짜 사람을 태
 
 ### 회로도
 우리 차량의 모든 전기계통 회로도는 KiCAD로 설계하였으며, [Github](https://github.com/luftaquila/a-fa-schematics){:target="_blank"}{:class='external'}에 공개되어 있다. 
+
+</details>

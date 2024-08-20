@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2023-08-15-living-point/main.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [½. 리빙 포인트](https://dnf.luftaquila.io/t/e-formula/21) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## 대회 끝
@@ -361,3 +367,5 @@ CPU가 main context를 수행하다가 인터럽트가 터진다. 그럼 CPU는 
 STM32 개발 환경인 STM32CubeIDE나 ESP32 개발 환경인 ESP-IDF는 모두 OpenOCD를 통한 프로그램 업로드 기능이 있다. 표준 JTAG 디버거나 ST-Link가 하나 있다면 개발하는 컴퓨터에서 단축키만 눌러도 프로그램을 업로드할 수 있게 된다. 디버깅 기능도 제공하기 때문에 타겟 보드에서 breakpoint, memory view, expression evaluation 등을 모두 사용할 수 있다. 이런 거 없으면 아두이노에서처럼 시리얼로 printf 찍어가면서 확인하는 수밖에 없다. ST-Link는 5천 원이면 [호환 제품](https://smartstore.naver.com/misoparts/products/5263743411)을 구할 수 있다.
 
 {% include_relative index.md %}
+
+</details>

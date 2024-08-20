@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2023-09-01-precharge/oscilloscope_tau.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [6. 초기충전 회로](https://dnf.luftaquila.io/t/e-formula/27) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## 개요
@@ -72,3 +78,5 @@ layout: post
 
 
 {% include_relative index.md %}
+
+</details>

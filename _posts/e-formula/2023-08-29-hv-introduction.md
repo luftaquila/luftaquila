@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2023-08-29-hv-introduction/hvbatt.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [1. HV 시스템 개요](https://dnf.luftaquila.io/t/e-formula/22) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## HV 시스템 개요
@@ -138,3 +144,5 @@ TSMP는 전기시스템 검차에서 구동시스템 전압을 직접 측정하�
 우리 팀은 300V to 12V 컨버터인 [QHL300300S12](https://www.mouser.kr/datasheet/2/942/SF_QHL300-1664261.pdf)를 배터리팩 내부에 넣어 사용했다. 절연형 DC-DC 컨버터이기 때문에 12V 출력이 입력인 HV 계통과 그라운드를 공유하지 않는다.
 
 {% include_relative index.md %}
+
+</details>

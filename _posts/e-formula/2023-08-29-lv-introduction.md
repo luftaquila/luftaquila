@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2023-08-29-lv-introduction/lv.jpg
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [2. LV 시스템 개요](https://dnf.luftaquila.io/t/e-formula/23) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## LV 시스템 개요
@@ -100,3 +106,5 @@ MCU는 주행에 필수적인 요소는 아니다. 하지만 차량을 처음 �
 이러한 문제점을 해결하고자 이번에 차량 주행 데이터 분석 및 원격 모니터링 시스템을 개발하였고, 기술부문 기술아이디어에 제출하여 금상을 받았다. 죽어라 만들었는데 우리 팀이 올해 한 번 쓰고 말면 아까우니 하드웨어 설계도와 제작 방법, 소스코드 등을 모두 [공개](https://github.com/luftaquila/monolith)해 두었다. 자세한 내용은 마지막 글인 [모노리스 DIY 데이터로거](https://luftaquila.io/blog/e-formula/monolith-telemetry-datalogger/)를 참고하면 된다. 널리 유용하게 사용되기를 바란다.
 
 {% include_relative index.md %}
+
+</details>

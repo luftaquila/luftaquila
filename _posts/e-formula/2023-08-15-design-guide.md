@@ -7,6 +7,12 @@ image: /assets/posts/e-formula/2023-08-15-design-guide/hvd_destruction_1.png
 layout: post
 ---
 
+### 안내
+
+**본문은 포럼의 [¼. 시스템 설계 가이드](https://dnf.luftaquila.io/t/e-formula/20) 에서 읽으실 수 있습니다.**
+
+{% include_relative notice.md %}
+
 {% include_relative index.md %}
 
 ## 디자인 가이드
@@ -136,3 +142,5 @@ HV 퓨즈야 원래 크고 무식하니 웬만하면 차단 용량이 차고 넘
 사실 이런 전체적인 시스템 규격을 정한 것이 거의 2년 전이라 모든 과정이 잘 기억나지는 않는다. 우리가 딱히 훌륭한 설계를 한 것도 아니지만, 처음 시작하는 팀에서 겪을 시행착오와 시간 소모를 조금이나마 줄였으면 하는 마음에 처음 부품 정하던 기억을 더듬어 적어 보았다. 새로 시작하는 모든 팀들을 응원한다.
 
 {% include_relative index.md %}
+
+</details>
