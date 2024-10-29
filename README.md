@@ -6,7 +6,7 @@ Feel free to visit [luftaquila.io](https://luftaquila.io) for more details. Hope
 
 ## 💡Skills & Interests
 ### 📖 Languages
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luftaquila&layout=compact&theme=vue&hide_title=true&custom_title=Languages%20by%20working%20time&langs_count=8&hide=html,other,java,cmake,css,arduino,vim%20script,autohotkey,git,json,restructuredtext,text,makefile,lua">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=luftaquila&layout=compact&theme=vue&hide_title=true&custom_title=Languages%20by%20working%20time&langs_count=8&hide=html,other,java,cmake,css,arduino,vim%20script,autohotkey,git,json,restructuredtext,text,makefile,lua,yaml">
 
 ### 🕹️ Embedded
 ![Real-Time OS](https://img.shields.io/badge/Real--Time%20OS-556472?style=for-the-badge&logo=figshare&logoColor=white)<br>
@@ -26,8 +26,8 @@ Feel free to visit [luftaquila.io](https://luftaquila.io) for more details. Hope
 ![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=Openlayers&logoColor=white)
 
 ### 🌠 Other Interests
-* 📸 [Photography](https://luftaquila.io/photos/)
-* ⌨️ [Keyboards](https://luftaquila.io/keyboard/)
-* 🌊 Scuba & Free diving
 * 🚀 Space Technologies
 * ✈️ Military Aviation
+* 🌊 Scuba & Free diving
+* 📸 [Photography](https://luftaquila.io/photos/)
+* ⌨️ [Keyboards](https://luftaquila.io/keyboard/)
