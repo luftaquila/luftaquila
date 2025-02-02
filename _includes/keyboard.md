@@ -1,33 +1,52 @@
 ### ZSA MOONLANDER
-Gateron Silent White, Linear, 35g
-![](/assets/images/keyboard/PXL_20230218_044551265.jpg)
+
+***L*** Gateron Silent White, Linear, 35g\
+***R*** MMD Princess v2, Linear, 28g
+
+![](/assets/images/keyboard/KakaoTalk_20250203_015958791.jpg)
 
 ### GK868B TICO
-Capacitive, 35g  
 
-![](/assets/images/keyboard/PXL_20210601_115210367.jpg)
+Niz EC, Capacitive, 35g
 
-![](/assets/images/keyboard/KakaoTalk_20210814_122134228.jpg)
+<!--![](/assets/images/keyboard/KakaoTalk_20210814_122134228.jpg)-->
 
 ![](/assets/images/keyboard/PXL_20220928_081712032.jpg)
 
-### MACHENIKE KT68
-Kailh Box Red, Linear, 45g
+### Lelelab Y2K 76
 
-![](/assets/images/keyboard/PXL_20230205_141845980_3.jpg)
+Outemu Silent Lime v1, Tactile, 35g
 
+![](/assets/images/keyboard/KakaoTalk_20250203_015505413.jpg)
 
 ### Daisy 40%
+
 Gateron Silent White, Linear, 35g
 
 ![](/assets/images/keyboard/KakaoTalk_20220601_000835811.jpg)
 
-### TESTER 68
-Tom Neon, Linear, 42g
+### <del>MACHENIKE KT68</del>
+
+Kailh Box Red, Linear, 45g
+
+![](/assets/images/keyboard/PXL_20230205_141845980_3.jpg)
+
+### <del>TESTER 68</del>
+
+Tom Neon, Linear, 32g
 
 ![](/assets/images/keyboard/PXL_20230107_144852188_2.jpg)
 
 ### Others
+
+#### Shortcut keypad
+
 Gateron Silent White, Linear, 35g
 
 ![](/assets/images/keyboard/KakaoTalk_20221015_005354181.jpg)
+
+#### Number pad
+
+LEOBOG Ice Crystal, Linear, 35g
+
+![](/assets/images/keyboard/KakaoTalk_20250203_023655787.jpg)
