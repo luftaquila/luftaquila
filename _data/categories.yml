@@ -1,20 +1,20 @@
 categories:
   - path: dev
     name: 개발
-    icon: far fa-code
+    icon: fas fa-code
     color: blue
 
   - path: e-formula
     name: E-포뮬러
-    icon: far fa-car
+    icon: fas fa-car
     color: green
 
   - path: diy
     name: DIY
-    icon: far fa-car-battery
+    icon: fas fa-car-battery
     color: pink
 
   - path: others
     name: 미분류
-    icon: far fa-sitemap
+    icon: fas fa-sitemap
     color: orange

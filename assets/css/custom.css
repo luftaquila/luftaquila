@@ -118,15 +118,15 @@ a.link, a.external, a.download {
 }
 
 a.link:before {
-  font-family: "Font Awesome 5 Pro";
+  font-family: "Font Awesome 6 Free";
   content: "\f0c1  ";
 }
 a.external:before {
-  font-family: "Font Awesome 5 Pro";
+  font-family: "Font Awesome 6 Free";
   content: "\f35d  ";
 }
 a.download:before {
-  font-family: "Font Awesome 5 Pro";
+  font-family: "Font Awesome 6 Free";
   content: "\f019  ";
 }
 
