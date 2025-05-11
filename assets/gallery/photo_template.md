@@ -1,5 +1,5 @@
 ---
-title: ‎
+title: ##title##
 date: ##date##
 image: /assets/gallery/photos/##name##
 thumbnail: /assets/gallery/photos/thumbnails/##thumbnail##

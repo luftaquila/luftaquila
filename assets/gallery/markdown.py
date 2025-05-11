@@ -30,6 +30,7 @@ for i, photo in enumerate(os.scandir(os.path.join(os.getcwd(), 'photos'))):
 
     try:
       if overwrite_markdown == 'y' or not os.path.isfile(os.path.join(os.getcwd(), '../../_photos', filename + '.md')):
+        md = re.sub('##title##', filename, md)
         md = re.sub('##name##', os.path.basename(f.name), md)
         md = re.sub('##thumbnail##', filename + '_thumbnail.' + ext, md)
         md = re.sub('##date##', img.datetime_original[:img.datetime_original.index(' ')].replace(':', '-'), md)
