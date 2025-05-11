@@ -57,7 +57,9 @@ for i, photo in enumerate(os.scandir(os.path.join(os.getcwd(), 'photos'))):
       
         if hasattr(img, 'gps_latitude'):
           map = img.gps_map_datum if hasattr(img, 'gps_map_datum') else ''
-          md = re.sub('##location##', f'{round(img.gps_latitude[0] + img.gps_latitude[1] / 60, 6)}°{img.gps_latitude_ref}, {round(img.gps_longitude[0] + img.gps_longitude[1] / 60, 6)}°{img.gps_longitude_ref} \n<iframe src="https://www.google.com/maps/embed/v1/place?key={GoogleMapsEmbedApiToken}&zoom=17&q={img.gps_latitude[0] + img.gps_latitude[1] / 60},{img.gps_longitude[0] + img.gps_longitude[1] / 60}&center={img.gps_latitude[0] + img.gps_latitude[1] / 60},{img.gps_longitude[0] + img.gps_longitude[1] / 60}" frameborder="0" style="width: 80%; max-width:400px; height: 300px; margin: -1rem 0 1rem 50px; border: 0;"></iframe>', md)
+          lat = img.gps_latitude[0] + img.gps_latitude[1] / 60 + img.gps_latitude[2] / 3600
+          lon = img.gps_longitude[0] + img.gps_longitude[1] / 60 + img.gps_longitude[2] / 3600
+          md = re.sub('##location##', f'{round(lat, 6)}°{img.gps_latitude_ref}, {round(lon, 6)}°{img.gps_longitude_ref} \n<iframe src="https://www.google.com/maps/embed/v1/place?key={GoogleMapsEmbedApiToken}&zoom=17&q={lat},{lon}&center={lat},{lon}" frameborder="0" style="width: 80%; max-width:400px; height: 300px; margin: -1rem 0 1rem 50px; border: 0;"></iframe>', md)
         else:
           md = re.sub('##location##', 'N/A', md)
         
@@ -66,7 +68,7 @@ for i, photo in enumerate(os.scandir(os.path.join(os.getcwd(), 'photos'))):
       if thumb == 'y':
         if overwrite_thumb == 'y' or not os.path.isfile(os.path.join(os.getcwd(), 'photos', 'thumbnails', filename + '_thumbnail.' + ext)):
           image = Image.open(os.path.join(os.getcwd(), 'photos', photo))
-          image.thumbnail((1000, 1000), Image.ANTIALIAS)
+          image.thumbnail((1000, 1000), Image.LANCZOS)
           image.save(os.path.join(os.getcwd(), 'photos', 'thumbnails', filename + '_thumbnail.' + ext))
           print(' thumbnail: O', end='')
           result['thumbnail'] += 1
