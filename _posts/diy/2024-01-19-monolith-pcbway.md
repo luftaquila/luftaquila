@@ -5,6 +5,7 @@ category: diy
 assets: /assets/posts/diy/2024-01-19-monolith-pcbway
 image: /assets/posts/diy/2024-01-19-monolith-pcbway/main.jpg
 layout: post
+published: false
 ---
 
 ## PCBWay
