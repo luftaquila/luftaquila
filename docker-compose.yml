@@ -1,0 +1,21 @@
+name: jekyll
+
+services:
+  nginx:
+    image: nginx:latest
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.jekyll.rule=Host(`luftaquila.io`)
+      - traefik.http.routers.jekyll.entrypoints=websecure
+      - traefik.http.routers.jekyll.tls=true
+      - traefik.http.services.jekyll.loadbalancer.server.port=80
+    volumes:
+      - ./default.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./_site:/var/public
+    networks:
+      - traefik
+    restart: unless-stopped
+
+networks:
+  traefik:
+    external: true
