@@ -1,10 +1,10 @@
 # Greetings!
 
-I'm a 🖥️*developer* and an 💡*electronics engineer* in 🇰🇷 Korea.
+I'm a 🖥️ *developer* and an 💡*electronics engineer* in 🇰🇷 Korea.
 
-I work on a RTOS kernel during ☀️, and build devices and services for 🏎️Student Formula🏁 at 🌙.
+I work on a RTOS kernel during ☀️, and build devices and services for 🏁 Student Formula at 🌙.
 
-Feel free to visit 🌏[luftaquila.io](https://luftaquila.io) for more details. Hope you enjoy!
+Feel free to visit [🌏luftaquila.io](https://luftaquila.io) for more details. Hope you enjoy!
 
 ## 🔭 Skills & Interests
 
@@ -16,23 +16,14 @@ Feel free to visit 🌏[luftaquila.io](https://luftaquila.io) for more details. 
 &nbsp;
 ![AUTOMOTIVE](https://img.shields.io/badge/AUTOMOTIVE-E60012?style=for-the-badge&logo=androidauto&logoColor=white)
 
-### 📡 Backend
-
-![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-&nbsp;
-![NODE.JS](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ### 🛠️ Do It Yourself!
 
-![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=qmk&logoColor=white)
-&nbsp;
-![PCBARTWORK](https://img.shields.io/badge/PCB%20ARTWORK-006600?style=for-the-badge&logo=multisim&logoColor=white)
+![3DMODELING](https://img.shields.io/badge/3D%20MODELING%20%26%20PRINTING-E7352C?style=for-the-badge&logo=Blueprint&logoColor=white)
 <br>
-![3DMODELING](https://img.shields.io/badge/3D%20MODELING-E7352C?style=for-the-badge&logo=Blueprint&logoColor=white)
-&nbsp;
-![3DPRINTING](https://img.shields.io/badge/3D%20PRINTING-00AE42?style=for-the-badge&logo=bambulab&logoColor=white)
-&nbsp;
-![WELDING](https://img.shields.io/badge/TIG%20WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)
+![PCBARTWORK](https://img.shields.io/badge/PCB%20SCHEMATIC%20%26%20LAYOUT%20DESIGN-006600?style=for-the-badge&logo=multisim&logoColor=white)
+<br>
+![SOLDERING](https://img.shields.io/badge/SOLDERING-556472?style=for-the-badge&logo=qmk&logoColor=white)
+![WELDING](https://img.shields.io/badge/ARC%20%26%20TIG%20WELDING-324FFF?style=for-the-badge&logo=Lit&logoColor=white)
 
 ### 📖 Languages, Editors and OS
 
@@ -46,7 +37,7 @@ Feel free to visit 🌏[luftaquila.io](https://luftaquila.io) for more details. 
 
 * 🚀 Space Technologies
 * ✈️ Military Aviation
-* 🌊 Scuba & Free diving
+* 🌊 Scuba diving
 * 🏹 Archery
 * 📸 [Photography](https://luftaquila.io/photos/)
 * ⌨️ [Keyboards](https://luftaquila.io/keyboard/)
