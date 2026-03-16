@@ -9,3 +9,5 @@ assets/gallery/photos/*
 
 **/*.env
 *.swp
+vendor/
+.bundle/
